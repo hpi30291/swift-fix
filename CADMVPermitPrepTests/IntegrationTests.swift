@@ -4,6 +4,7 @@ import CoreData
 
 // Note: Some tests may show malloc warnings due to Core Data operations
 // These are test environment warnings, not app bugs
+@MainActor
 final class IntegrationTests: XCTestCase {
 
     var questionManager: QuestionManager!
@@ -30,7 +31,7 @@ final class IntegrationTests: XCTestCase {
 
     // MARK: - Complete Quiz Flow Integration
 
-    func testCompleteQuizFlowWithAllSystems() {
+    @MainActor func testCompleteQuizFlowWithAllSystems() {
         // Reduced from 10 to 3 questions to avoid malloc-related hangs
         // This still tests the complete flow but completes faster
 

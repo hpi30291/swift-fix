@@ -1,0 +1,89 @@
+Command line invocation:
+    /Applications/Xcode-26.0.1.app/Contents/Developer/usr/bin/xcodebuild test -scheme CADMVPermitPrep -destination "platform=iOS Simulator,name=iPhone 15"
+
+Resolve Package Graph
+
+Fetching from https://github.com/firebase/nanopb.git
+
+Fetching from https://github.com/firebase/leveldb.git
+
+Fetching from https://github.com/google/GoogleAppMeasurement.git
+
+Fetching from https://github.com/google/interop-ios-for-google-sdks.git
+
+Fetching from https://github.com/google/app-check.git
+
+Fetching from https://github.com/apple/swift-protobuf.git
+
+Fetching from https://github.com/googleads/google-ads-on-device-conversion-ios-sdk
+
+Fetching from https://github.com/google/GoogleDataTransport.git
+
+Fetching from https://github.com/google/gtm-session-fetcher.git
+
+Fetching from https://github.com/google/grpc-binary.git
+
+Fetching from https://github.com/google/abseil-cpp-binary.git
+
+Fetching from https://github.com/google/promises.git
+
+Fetching from https://github.com/google/GoogleUtilities.git
+
+Fetching from https://github.com/firebase/firebase-ios-sdk.git
+
+Creating working copy of package ‘leveldb’
+
+Creating working copy of package ‘google-ads-on-device-conversion-ios-sdk’
+
+Creating working copy of package ‘GoogleAppMeasurement’
+
+Creating working copy of package ‘swift-protobuf’
+
+Creating working copy of package ‘interop-ios-for-google-sdks’
+
+Creating working copy of package ‘app-check’
+
+Creating working copy of package ‘nanopb’
+
+Creating working copy of package ‘grpc-binary’
+
+Checking out 1.69.1 of package ‘grpc-binary’
+
+Checking out 3.2.0 of package ‘google-ads-on-device-conversion-ios-sdk’
+
+Checking out 12.5.0 of package ‘GoogleAppMeasurement’
+
+Checking out 101.0.0 of package ‘interop-ios-for-google-sdks’
+
+Checking out 2.30910.0 of package ‘nanopb’
+
+Checking out 1.22.5 of package ‘leveldb’
+
+Checking out 11.2.0 of package ‘app-check’
+
+Checking out 1.33.3 of package ‘swift-protobuf’
+
+Creating working copy of package ‘GoogleDataTransport’
+
+Creating working copy of package ‘abseil-cpp-binary’
+
+Creating working copy of package ‘gtm-session-fetcher’
+
+Creating working copy of package ‘firebase-ios-sdk’
+
+Checking out 10.1.0 of package ‘GoogleDataTransport’
+
+Checking out 1.2024072200.0 of package ‘abseil-cpp-binary’
+
+Checking out 5.0.0 of package ‘gtm-session-fetcher’
+
+Creating working copy of package ‘GoogleUtilities’
+
+Creating working copy of package ‘promises’
+
+Checking out 8.1.0 of package ‘GoogleUtilities’
+
+Checking out 2.4.0 of package ‘promises’
+
+Checking out 12.6.0 of package ‘firebase-ios-sdk’
+

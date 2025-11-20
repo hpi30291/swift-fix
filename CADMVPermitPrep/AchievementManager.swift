@@ -2,6 +2,7 @@ import Foundation
 import SwiftUI
 import Combine
 
+@MainActor
 class AchievementManager: ObservableObject {
     static let shared = AchievementManager()
 
@@ -158,7 +159,8 @@ class AchievementManager: ObservableObject {
 
         // Show first unlocked achievement
         if let first = unlocked.first {
-            DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
+            Task { @MainActor in
+                try? await Task.sleep(nanoseconds: 500_000_000) // 0.5 seconds
                 self.newlyUnlockedAchievement = first
             }
         }
