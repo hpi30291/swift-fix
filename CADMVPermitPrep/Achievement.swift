@@ -17,11 +17,11 @@ struct Achievement: Identifiable, Codable {
         Achievement(
             id: "first_steps",
             name: "First Steps",
-            description: "Answer 15 questions",
+            description: "Answer 10 questions",
             icon: "figure.walk",
             isUnlocked: false,
             progress: 0,
-            requirement: 15
+            requirement: 10
         ),
         Achievement(
             id: "getting_serious",

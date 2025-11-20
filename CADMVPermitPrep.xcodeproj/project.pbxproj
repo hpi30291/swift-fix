@@ -34,6 +34,7 @@
 		D84A041B2ECE0DC10079CD84 /* CADMVPermitPrep.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CADMVPermitPrep.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D84A04282ECE0DC20079CD84 /* CADMVPermitPrepTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CADMVPermitPrepTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D84A04322ECE0DC20079CD84 /* CADMVPermitPrepUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CADMVPermitPrepUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8754D702ECF5B400056FF66 /* CADMVPermitPrepTests.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = CADMVPermitPrepTests.xctestplan; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -86,6 +87,7 @@
 		D84A04122ECE0DC10079CD84 = {
 			isa = PBXGroup;
 			children = (
+				D8754D702ECF5B400056FF66 /* CADMVPermitPrepTests.xctestplan */,
 				D84A041D2ECE0DC10079CD84 /* CADMVPermitPrep */,
 				D84A042B2ECE0DC20079CD84 /* CADMVPermitPrepTests */,
 				D84A04352ECE0DC20079CD84 /* CADMVPermitPrepUITests */,

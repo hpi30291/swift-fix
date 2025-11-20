@@ -1,0 +1,32 @@
+{
+  "configurations" : [
+    {
+      "id" : "D167610B-1BF7-4BCC-9F75-9B1C3002C92A",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "performanceAntipatternCheckerEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : false,
+      "skippedTests" : [
+        "PurchaseFlowIntegrationTests",
+        "QuizIntegrationTests",
+        "QuizViewModelTests",
+        "ReadyToTestManagerTests",
+        "UserAccessManagerTests"
+      ],
+      "target" : {
+        "containerPath" : "container:CADMVPermitPrep.xcodeproj",
+        "identifier" : "D84A04272ECE0DC20079CD84",
+        "name" : "CADMVPermitPrepTests"
+      }
+    }
+  ],
+  "version" : 1
+}

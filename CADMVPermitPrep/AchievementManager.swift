@@ -42,10 +42,9 @@ class AchievementManager: ObservableObject {
     ) {
         var unlocked: [Achievement] = []
         
-        // First Steps
         if let index = achievements.firstIndex(where: { $0.id == "first_steps" }) {
             achievements[index].progress = totalAnswered
-            if !achievements[index].isUnlocked && totalAnswered >= 15 {
+            if !achievements[index].isUnlocked && totalAnswered >= 10 {
                 achievements[index].isUnlocked = true
                 unlocked.append(achievements[index])
             }
@@ -120,18 +119,12 @@ class AchievementManager: ObservableObject {
             }
         }
         
-        // Category Master - Requires at least 20 questions answered in category with 100% accuracy
-        let categoryPerformance = PerformanceTracker.shared.getAllCategoryPerformance()
-        for (_, performance) in categoryPerformance {
-            if performance.questionsAnswered >= 20 && performance.accuracy >= 1.0 {
-                if let index = achievements.firstIndex(where: { $0.id == "category_master" }) {
-                    if !achievements[index].isUnlocked {
-                        achievements[index].isUnlocked = true
-                        achievements[index].progress = 1
-                        unlocked.append(achievements[index])
-                        break
-                    }
-                }
+        if let index = achievements.firstIndex(where: { $0.id == "category_master" }) {
+            let hasPerfectCategory = categoryAccuracy.values.contains { $0 >= 1.0 }
+            if hasPerfectCategory && !achievements[index].isUnlocked {
+                achievements[index].isUnlocked = true
+                achievements[index].progress = 1
+                unlocked.append(achievements[index])
             }
         }
         

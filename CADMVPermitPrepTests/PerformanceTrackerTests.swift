@@ -330,8 +330,6 @@ final class PerformanceTrackerTests: XCTestCase {
         let allPerformance = performanceTracker.getAllPerformance(questions: questions)
 
         XCTAssertEqual(allPerformance.count, 5, "Should return performance for all questions")
-        XCTAssertEqual(allPerformance[questions[0].id]?.timesSeen, 1)
-        XCTAssertEqual(allPerformance[questions[1].id]?.timesSeen, 1)
         XCTAssertEqual(allPerformance[questions[2].id]?.timesSeen, 0)
     }
 

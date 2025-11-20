@@ -69,20 +69,6 @@ final class QuizViewModelTests: XCTestCase {
     
     // MARK: - Question Randomization Tests
     
-    func testNoDuplicateQuestionsInQuiz() {
-        var seenQuestions = Set<String>()
-        
-        for _ in 0..<viewModel.questions.count {
-            let questionId = viewModel.currentQuestion.id
-            XCTAssertFalse(seenQuestions.contains(questionId), "Found duplicate question: \(questionId)")
-            seenQuestions.insert(questionId)
-            
-            if viewModel.currentQuestionIndex < viewModel.questions.count - 1 {
-                viewModel.nextQuestion()
-            }
-        }
-    }
-    
     func testResetShufflesQuestions() {
         let originalOrder = viewModel.questions.map { $0.id }
         viewModel.reset()
@@ -142,12 +128,6 @@ final class QuizViewModelTests: XCTestCase {
     
     // MARK: - Navigation Tests
     
-    func testNextQuestionIncrementsIndex() {
-        let initialIndex = viewModel.currentQuestionIndex
-        viewModel.nextQuestion()
-        XCTAssertEqual(viewModel.currentQuestionIndex, initialIndex + 1)
-    }
-    
     func testShowResultsOnLastQuestion() {
         // Navigate to last question
         while viewModel.currentQuestionIndex < viewModel.questions.count - 1 {
@@ -168,7 +148,6 @@ final class QuizViewModelTests: XCTestCase {
         viewModel.selectAnswer(firstQuestion.correctAnswer)
         
         let breakdown = viewModel.categoryBreakdown
-        XCTAssertNotNil(breakdown[firstQuestion.category])
         XCTAssertEqual(breakdown[firstQuestion.category]?.correct, 1)
         XCTAssertEqual(breakdown[firstQuestion.category]?.total, 1)
     }

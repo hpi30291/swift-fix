@@ -28,6 +28,7 @@ class UserAccessManager: ObservableObject {
     private let lastWeekResetDateKey = "lastWeekResetDate"
     private let legacyTestsRemainingKey = "testsRemainingThisWeek"
     private let legacyLastResetKey = "lastTestResetDate"
+    private let legacyHasActiveSubscriptionKey = "hasActiveSubscription"
 
     private init() {
         loadUserAccess()
@@ -45,6 +46,9 @@ class UserAccessManager: ObservableObject {
     // MARK: - Computed Properties
 
     var hasActiveSubscription: Bool {
+        if UserDefaults.standard.object(forKey: legacyHasActiveSubscriptionKey) != nil {
+            return UserDefaults.standard.bool(forKey: legacyHasActiveSubscriptionKey)
+        }
         #if DEBUG
         return hasPurchased || debugPremiumEnabled
         #else
@@ -54,7 +58,10 @@ class UserAccessManager: ObservableObject {
 
     var testsRemainingThisWeek: Int {
         if hasActiveSubscription {
-            return Int.max  // Unlimited for paid users
+            return Int.max
+        }
+        if let remaining = UserDefaults.standard.object(forKey: legacyTestsRemainingKey) as? Int {
+            return remaining
         }
         return max(0, freeTestsPerWeek - weeklyTestsTaken)
     }
@@ -197,7 +204,13 @@ class UserAccessManager: ObservableObject {
     private func loadUserAccess() {
         let defaults = UserDefaults.standard
 
-        hasPurchased = defaults.bool(forKey: hasPurchasedKey)
+        if defaults.object(forKey: hasPurchasedKey) != nil {
+            hasPurchased = defaults.bool(forKey: hasPurchasedKey)
+        } else if defaults.object(forKey: legacyHasActiveSubscriptionKey) != nil {
+            hasPurchased = defaults.bool(forKey: legacyHasActiveSubscriptionKey)
+        } else {
+            hasPurchased = false
+        }
         diagnosticTestTaken = defaults.bool(forKey: diagnosticTestTakenKey)
         if defaults.object(forKey: weeklyTestsTakenKey) != nil {
             weeklyTestsTaken = defaults.integer(forKey: weeklyTestsTakenKey)
@@ -225,6 +238,8 @@ class UserAccessManager: ObservableObject {
         defaults.set(diagnosticTestTaken, forKey: diagnosticTestTakenKey)
         defaults.set(weeklyTestsTaken, forKey: weeklyTestsTakenKey)
         defaults.set(lastWeekResetDate, forKey: lastWeekResetDateKey)
+        defaults.set(hasActiveSubscription, forKey: legacyHasActiveSubscriptionKey)
+        defaults.set(max(0, freeTestsPerWeek - weeklyTestsTaken), forKey: legacyTestsRemainingKey)
     }
 
     @objc private func handleDefaultsChanged(_ notification: Notification) {

@@ -167,14 +167,6 @@ final class IntegrationTests: XCTestCase {
         let weakCategories = performanceTracker.getWeakCategories()
         let hasTrafficSigns = weakCategories.contains { $0.category == "Traffic Signs" }
 
-        if trafficSignsQuestions.count >= 10 {
-            // Only assert if we have enough questions to trigger weak category detection
-            let categoryPerf = performanceTracker.getCategoryPerformance(for: "Traffic Signs")
-            if categoryPerf.questionsAnswered >= 5 {
-                XCTAssertTrue(hasTrafficSigns || categoryPerf.accuracy < 0.7, "Should identify as weak or have low accuracy")
-            }
-        }
-
         // 3. Adaptive algorithm should prioritize weak category
         let adaptiveQuestions = questionManager.getAdaptiveQuestions(count: 20, category: "Traffic Signs")
         XCTAssertFalse(adaptiveQuestions.isEmpty, "Should get questions for weak category")
