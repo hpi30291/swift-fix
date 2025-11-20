@@ -1,0 +1,148 @@
+{
+  "moduleId": "special_situations",
+  "moduleName": "Special Situations",
+  "icon": "exclamationmark.triangle.fill",
+  "color": "#EF4444",
+  "lessons": [
+    {
+      "lessonNumber": 1,
+      "title": "What to Do in an Accident",
+      "icon": "car.fill",
+      "overview": "Accidents happen fast and can be scary, but knowing exactly what to do keeps everyone safe and protects you legally. These steps could literally save lives - including yours.",
+      "keyPoints": [
+        "STOP immediately - never leave the scene (hit-and-run = serious criminal charges)",
+        "Call 911 if anyone is injured, even if injuries seem minor",
+        "Exchange info: license, registration, insurance, address with everyone involved",
+        "Report to DMV within 10 days if damage exceeds $1,000 or anyone injured",
+        "Never admit fault - stick to facts when talking to police and insurance"
+      ],
+      "detailedContent": "If you're in an accident, you MUST stop immediately - leaving is a hit-and-run, which carries severe penalties including potential jail time. First priority: check if anyone is hurt. Call 911 right away if there are ANY injuries, even minor ones. Don't try to move injured people unless there's immediate danger (fire, explosion risk). While waiting for help, prevent further damage: turn off your engine (reduces fire risk), turn on hazard lights, and use flares or warning triangles if you have them to alert other drivers. California law requires you to exchange information with everyone involved: driver's license, vehicle registration, insurance info, and current address. If you hit a parked car, try to find the owner. If you can't, leave a note with your name, phone number, and address securely attached to the vehicle, then report to law enforcement. You must report the accident to DMV within 10 days if damage exceeds $1,000 OR if anyone is injured or killed, no matter how minor. Use form SR-1 (available at dmv.ca.gov). Your insurance company needs to know ASAP too. If there are witnesses, get their contact info - they could be crucial for insurance claims. Take photos of damage, vehicle positions, road conditions, and any relevant signs if possible. When police arrive, give an accurate account and stick to facts - never speculate about what happened or admit fault. Some injuries like whiplash don't show up immediately, so see a doctor even if you feel fine. Stay calm and follow these steps - being prepared makes a huge difference in a stressful situation.",
+      "example": "You're at a red light when BAM - someone rear-ends you at 30 mph. Your neck hurts but you can move. Here's what you do: 1) Stay in car, turn on hazards. 2) Call 911 - even though you can move, you need medical evaluation. 3) When safe, exit your car and check on the other driver. 4) Exchange all info with them. 5) Take photos of both cars' damage and the intersection. 6) Tell police exactly what happened when they arrive. 7) Go to ER that day to get checked out (whiplash symptoms often appear hours later). 8) Report to DMV within 10 days and your insurance immediately. Because you followed these steps, you're protected legally and medically.",
+      "memoryTip": "S.T.O.P. = Stop immediately, Treat injuries (call 911), Obtain info (license/insurance), Protect yourself (report to DMV/insurance). Remember: Never leave scene, Never move injured people (unless fire/explosion risk), Never admit fault. 10 days to report to DMV!",
+      "images": [
+        "image90.png",
+        "image116.png",
+        "image117.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 2,
+      "title": "Tire Blowout & Brake Failure",
+      "icon": "exclamationmark.circle.fill",
+      "overview": "Mechanical failures are terrifying but rare. Knowing how to handle a tire blowout or brake failure could save your life and prevent a crash.",
+      "keyPoints": [
+        "Tire blowout: Hold wheel firmly, maintain speed, gradually release gas, NO sudden braking",
+        "Brake failure: Pump brakes rapidly, downshift for engine braking, slowly apply parking brake",
+        "Don't panic or overreact - sudden movements make it worse",
+        "Focus on where you want to go, not the danger",
+        "Pull safely off road once vehicle stabilized"
+      ],
+      "detailedContent": "TIRE BLOWOUT: If you have a blowout, your instinct will scream 'BRAKE!' - DON'T. Suddenly braking or jerking the wheel causes you to lose control and spin out. Instead, the National Highway Traffic Safety Administration recommends: hold the steering wheel firmly with both hands, maintain your vehicle speed if possible (don't accelerate but don't brake), gradually release the accelerator (ease off the gas slowly), correct the steering as needed to stabilize and regain control, look and steer in the direction you want to go (your car goes where you look), once stabilized continue to slow down gradually and pull off the road when safe. The blowout will make your car pull hard to one side - use steady, firm pressure on the wheel to keep it straight. Wait until you're at a controlled speed before attempting to pull over. BRAKE FAILURE: If your brakes fail, use these steps: pump the brake pedal rapidly to build up brake fluid pressure (this works for traditional brakes), downshift to use engine braking to reduce speed, if pumping doesn't work slowly apply the parking/emergency brake (be careful - pulling too hard causes skidding), look for an escape route like a shoulder, uphill road, or open area, honk your horn to warn other drivers, once stopped turn on hazards and get professional help immediately. GENERAL TIPS: For stuck accelerator, shift to neutral and apply steady brake pressure, don't turn off engine (you'll lose power steering and brakes), pull over when safe. Regular vehicle maintenance prevents most mechanical failures - check tires, brakes, and fluids regularly. Always carry emergency supplies (spare tire, jack, flashlight, warning triangles) and consider roadside assistance.",
+      "example": "You're driving 65 mph on the freeway when BOOM - your front right tire blows out. Your car jerks hard right toward the guardrail. Your passenger screams 'BRAKE!' but you remember: DON'T. Instead, you grip the wheel tight with both hands, keep your foot steady on the gas (no braking!), and use strong steady pressure to keep the car straight. The car is shaking like crazy but you DON'T brake. You slowly ease off the gas over about 5 seconds. Once the shaking reduces and you're going about 40 mph, you carefully pull onto the shoulder. Crisis avoided - if you'd slammed the brakes at 65 mph you would've spun out into traffic.",
+      "memoryTip": "Blowout = H.O.L.D. F.I.R.M.: Hold wheel, Off gas gradually, Look where you want to go, Don't brake. + Foot off gas, If stable pull off, Reduce speed, Maintain control. Brake Failure = P.D.P.: Pump pedal, Downshift, Parking brake slowly.",
+      "images": [
+        "image147.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 3,
+      "title": "Skids & Loss of Control",
+      "icon": "snowflake",
+      "overview": "Skids happen when your tires lose grip on the road - from rain, ice, or sudden movements. The key? Stay calm and 'steer into the skid' to regain control.",
+      "keyPoints": [
+        "Steer in the direction you want to go (where your front wheels point)",
+        "Don't brake during a skid - it makes it worse",
+        "Ease off the gas and keep wheels aligned with intended path",
+        "If wheels lock, release brake pedal to unlock them",
+        "Prevent skids: slow down in rain/snow, avoid sudden turns or braking"
+      ],
+      "detailedContent": "A skid happens when your tires can't grip the road and your car starts sliding sideways or spinning. Causes include wet/icy roads, sudden braking, sharp turns at high speed, or bald tires. HANDLING SKIDS: The key technique is 'steer into the skid' - if your rear end slides left, steer left; if it slides right, steer right. Keep your front tires aligned with where you want to go. Do NOT brake - braking locks your wheels and makes the skid worse. Instead, ease off the gas and gently steer. Once you feel tires regain traction (car responds to steering), straighten the wheel. For vehicles WITH ABS (Anti-lock Braking System): press brake pedal firmly and hold it down, don't pump, ABS will automatically pulse the brakes to prevent wheel lockup, steer in direction you want to go. For vehicles WITHOUT ABS: quickly pump brakes (press and release rapidly), this prevents wheels from locking, if wheels lock release brake immediately to unlock them, then reapply. FRONT-WHEEL VS REAR-WHEEL SKIDS: Front-wheel skid (understeer) - car won't turn: take foot off gas, don't brake, wait for front wheels to grip again, then steer gently. Rear-wheel skid (oversteer) - back end slides out: ease off gas, steer in direction you want front of car to go, don't brake. HYDROPLANING: This is when water builds between tires and road causing loss of traction. If hydroplaning: take foot off gas completely, DO NOT brake (makes it worse), DO NOT steer (car won't respond), wait 1-2 seconds for tires to regain contact, then gently steer and brake. Prevent hydroplaning by slowing down in rain, avoiding standing water, and maintaining good tire tread. PREVENTION: Best way to handle skids is to avoid them - slow down in bad weather, increase following distance, avoid sudden steering or braking, maintain good tire tread, don't use cruise control in rain/snow.",
+      "example": "You're driving on a wet road at 50 mph. You need to turn left but you're going too fast. As you turn, your rear end starts sliding right - you're in a skid! Your instinct says brake and turn the wheel more left. WRONG. Instead you: 1) Take foot off gas 2) Don't touch the brake 3) Steer RIGHT (same direction rear is sliding) 4) Look where you want to go (straight ahead) 5) After 2 seconds your tires grip again 6) Gently straighten the wheel and continue. You regained control because you didn't panic and remembered to steer into the skid.",
+      "memoryTip": "SKID control: Steer where you want to go, Keep off brakes, Idle (ease off gas), Don't panic. Look where you want to GO, not at the danger! ABS cars: Press and hold brake. Non-ABS: Pump brakes fast. Hydroplane = L.E.T. go: Lift off gas, Ease pressure, Traction returns.",
+      "images": [],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 4,
+      "title": "Road Rage & Aggressive Drivers",
+      "icon": "flame.fill",
+      "overview": "Road rage has surged 50% since 1990 and is now drivers' #1 safety concern. Learn how to stay calm, avoid provoking others, and protect yourself from aggressive drivers.",
+      "keyPoints": [
+        "Aggressive driving (traffic violation): tailgating, speeding, erratic lane changes",
+        "Road rage (criminal offense): assault with vehicle, violence",
+        "Never engage: no eye contact, no gestures, no honking back",
+        "If threatened: don't go home (they'll know address), drive to police station, call 911",
+        "Stay calm: leave early, don't take it personally, be courteous"
+      ],
+      "detailedContent": "DEFINITIONS: Aggressive driving (NHTSA definition): operating a vehicle in a manner that endangers people or property - includes tailgating, speeding, erratic lane changes, blocking cars trying to pass, failing to yield, angry gestures. This is a traffic violation. Road rage: escalated aggressive driving that becomes violent - assault with a vehicle or weapon. This is a CRIMINAL offense that can result in 6-month to 1-year license suspension, jail time (1-4 years for assault conviction), and fines up to $10,000. STATISTICS: Since 1990 road rage incidents increased 50%. 8 in 10 drivers experienced road rage in the last month. Road rage involving guns increased every year since 2018. It's now the #1 problem drivers worry about, ahead of drunk driving. WHY IT HAPPENS: More cars = more congestion = more frustration. Some drivers have 'behind-the-wheel alter ego' - anonymity in car makes them bolder. HOW TO AVOID PROVOKING OTHERS: Don't drive slowly in left lane (left lane for passing only), never cut people off (signal, check blindspots, merge safely), don't tailgate (use 3-second rule), avoid obscene gestures (keep hands on wheel), be courteous (use signals, don't honk unless emergency), let merging cars in, don't rush yellow lights. IF YOU ENCOUNTER AGGRESSIVE DRIVER: Don't engage - no eye contact, no gestures back, no honking unless emergency. Don't brake check them or block them. If they gesture at you, ignore it. If they're following you: DON'T go home (they'll know your address), drive to police station or busy public area, call 911 if in immediate danger, have passenger write down their license plate. If they get out of their car: stay in your car with doors locked, windows up, call 911. MANAGING YOUR OWN ANGER: Leave early so you're not rushed, don't take things personally (maybe they have emergency), listen to calming music or podcast, take deep breaths, pull over and take break if needed, remember: driving isn't a contest, your goal is to arrive safely not quickly. 90% of drivers think aggressive drivers are a serious threat, yet many admit to aggressive behaviors themselves. Don't be part of the problem.",
+      "example": "You're in the left lane going the speed limit when a car comes up fast behind you flashing its lights and honking. You think 'I'm going the speed limit, they can wait!' but you remember what you learned. You signal right and merge over to let them pass. They zoom by and cut back in front of you aggressively, then brake-check you (slam brakes to punish you). You're angry but DON'T honk or gesture. Instead you: 1) Slow down to increase following distance 2) Take deep breaths 3) Change lanes away from them 4) Let them go - they're someone else's problem now. You stayed safe by not engaging with their rage.",
+      "memoryTip": "A.V.O.I.D. road rage: Avoid left lane (unless passing), Visualize staying calm, Open space (don't tailgate), Ignore provocations, Don't engage. If threatened: Don't go home, Drive to police/public area, Dial 911. C.A.L.M. down: Courteous driving, Allow extra time, Look ahead and plan, Music that relaxes.",
+      "images": [
+        "image205.png",
+        "image206.png",
+        "image207.png",
+        "image208.png",
+        "image95.png",
+        "image41.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 5,
+      "title": "Distractions & Staying Focused",
+      "icon": "eye.slash.fill",
+      "overview": "Distracted driving is the #1 crash cause for teen drivers. Looking at your phone for just 5 seconds at 55 mph = driving a football field blind. Your life is worth more than a text.",
+      "keyPoints": [
+        "MINORS: NO cell phone use AT ALL while driving (not even hands-free) - only 911 calls",
+        "3 distraction types: Visual (eyes off road), Manual (hands off wheel), Cognitive (mind off driving)",
+        "Looking at phone 5 seconds at 55 mph = 100 yards blind (football field length!)",
+        "Texting is 23x more likely to cause a crash than focused driving",
+        "Set GPS, music, climate before you start moving - no adjusting while driving"
+      ],
+      "detailedContent": "CALIFORNIA CELL PHONE LAWS: If you're under 18, you CANNOT use a cell phone or wireless device for ANY reason while driving - no calls, no texts, not even hands-free (CVC 23124). Only exception: calling 911 in emergencies. Violating this law can cost your license. Adults can use phones ONLY in hands-free mode - device must be mounted on windshield, dashboard, or console. Can activate with ONE swipe or voice command, but that's it. NO ONE (any age) can text while driving - sending, reading, or composing texts is illegal for everyone. THE DANGER: Distracted driving killed 3,522 people in 2021 (NHTSA data). For teens (15-20), it's the #1 crash cause. Looking at your phone for 5 seconds at 55 mph means you travel 100 yards (length of football field) BLIND. Texting makes you 23x more likely to crash. THREE TYPES OF DISTRACTIONS: Visual (eyes off road): checking phone, looking at passengers, searching for something, looking at GPS, applying makeup. Manual (hands off wheel): eating, drinking, reaching for objects, adjusting radio/climate controls, holding phone. Cognitive (mind off driving): deep conversations, daydreaming, emotional distress, thinking about problems, stress. Texting is the WORST because it's all three types at once. COMMON DISTRACTIONS: Phones (texting, social media, calls, GPS programming), passengers (especially multiple teens - 4x more distracting than adults; infants 8x more), food/drinks, music (loud volume, changing songs), grooming (makeup, hair), pets (let them roam free), emotional state (anger, stress, sadness). OTHER ILLEGAL DISTRACTIONS: Wearing headphones/earbuds in both ears while driving (illegal in CA), watching videos. HOW TO STAY FOCUSED: Put phone in glove box or trunk (out of sight = out of mind), use Do Not Disturb mode or driving mode apps, set GPS/music/climate BEFORE you start driving, secure pets in carriers, eat before or after driving (not during), if you must make call: pull over safely first, don't have emotional conversations while driving (they're cognitive distractions), if you start feeling emotional pull over and take a break, limit passengers (especially teen passengers who encourage risky behavior). CONSEQUENCES: First offense: Fine, points on license. Multiple offenses: License suspension. Crash while distracted: Much higher liability, insurance rates skyrocket. The message is simple: Whatever it is, it can wait. No text, call, or notification is worth your life or someone else's.",
+      "example": "Your phone buzzes while you're driving to school. Your best friend just posted something juicy. You're SO tempted to look but you remember: you're 16, so even glancing at your phone is illegal and could cost your license. Plus, 5 seconds looking = football field blind. You resist. At the next red light you're STILL tempted - but you're still driving. When you finally get to school and park, THEN you check. It was just a meme. Totally not worth risking your life or license.",
+      "memoryTip": "Under 18 = Under NO circumstances (can't use phone, not even hands-free). D.R.O.P. the phone: Don't touch it, Reach for glove box, Out of sight/mind, Park if you must check. 5-100 rule: 5 seconds looking = 100 yards blind (football field!). TEXT = Tragedy Eliminated by Xing (crossing) Temptation.",
+      "images": [
+        "image200.png",
+        "image201.png",
+        "image202.png",
+        "image199.png",
+        "image203.png",
+        "image204.png",
+        "image38.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 6,
+      "title": "Highway/Freeway Driving",
+      "icon": "road.lanes",
+      "overview": "Freeways feel fast and scary at first, but they're actually safer than city streets when you know the rules. Master merging, lane choice, and safe speeds for confident highway driving.",
+      "keyPoints": [
+        "Use acceleration lane to reach freeway speed (55-70 mph) BEFORE merging",
+        "Merge at same speed as traffic - going too slow is dangerous",
+        "Stay right except to pass. Left lane = passing lane only (not cruising lane)",
+        "Maintain 3-5 second following distance (more in bad weather)",
+        "Know your exit 5 miles ahead - never stop or backup on freeway"
+      ],
+      "detailedContent": "ENTERING FREEWAY: Acceleration lane (on-ramp) is for speeding up to match freeway traffic speed - use the full length of it to accelerate to posted speed (usually 55-70 mph). The #1 mistake new drivers make is entering too slowly - going 35-45 mph when traffic is doing 65 mph is DANGEROUS and causes accidents. As you accelerate, check mirrors and look over shoulder to find a gap in traffic. Signal left to show you're merging. When you see a safe gap, merge smoothly while continuing to accelerate. Turn signal off once merged. If there's no acceleration lane, use extreme caution - you'll need a very large gap since you're starting from low speed. Special situations: Timed entrance lights (red light on ramp) - stop when red, go when green; Double merge lanes - stay in your lane until you're on freeway; Carpool/HOV lanes - need 2+ people, marked with diamond symbol, electric/low-emission vehicles with special stickers allowed. CHOOSING LANES: 2-lane freeway: Drive in right lane. Left lane is for PASSING ONLY - pass then move back right. 3+ lane freeway: Drive in middle lanes. Right lane for slower traffic and entering/exiting. Left lane for passing. When others are merging on, move left to give them space if safe, then return to your lane. SPEED: Freeway limits usually 55-70 mph but some vehicles (trucks with 3+ axles, buses, vehicles with trailers, school buses, farm vehicles) cannot exceed 55 mph. There may also be MINIMUM speeds posted - driving too slow is dangerous because fast traffic can't slow down safely. Remember: speed limits are MAXIMUMS - if weather is bad (rain, fog, snow), slow down even if you're below the limit. SPACE CUSHION: Maintain 3-second following distance (5 seconds in bad weather). To check: when car ahead passes a landmark (sign, overpass), say 'one-one thousand, two-one thousand, three-one thousand' - you should pass that landmark after 3 seconds. Leave space on all sides - don't box yourself in. EXITING: Know your exit in advance. About 5 miles before exit, start moving toward right lanes. Watch for exit signs with mileage. Once past the on-ramp before your exit, move into exit lane. Signal 5 seconds (400 feet) before exiting. Use deceleration lane (off-ramp) to slow down - don't slow on freeway. Watch for curve warning signs on exit ramps with suggested speeds. If you miss your exit, NEVER stop, backup, or try to cross lanes suddenly - take next exit and loop back. BREAKDOWNS: If car breaks down, safely pull to right shoulder. Exit on right side (away from traffic). Turn on hazards. Stay in car with seatbelt on and call 511 or use call box. Only get out if there's no shoulder space or immediate danger (fire). California Highway Patrol Freeway Service Patrol provides free help during commute times (gas, jump start, tire change, minor repairs). DANGERS TO AVOID: Highway hypnosis (zoning out after long drive) - take breaks every 2 hours. Velocitation (feeling like you're going slower than you are after exiting freeway) - check speedometer frequently.",
+      "example": "First time on freeway. You enter the acceleration lane going 45 mph while everyone else is doing 65 mph. Your instinct says 'go slow and be careful' but you remember that's WRONG. You press gas and accelerate to 60 mph as you check mirrors. You signal left, find a gap, and merge at 65 mph - same speed as traffic. You did it right! If you'd merged at 45 mph, cars would've had to brake hard behind you, causing potential pile-up.",
+      "memoryTip": "M.E.R.G.E. safely: Match speed of traffic, Enter at freeway speed, Right lane to drive, Gap in traffic needed, Exit on right side. Lane rules: R.M.L. - Right lane (slow/exit), Middle lanes (cruising), Left lane (passing ONLY). Exit: 5 miles ahead start moving right. 3-5 second following distance (count 'one-one thousand').",
+      "images": [
+        "image129.png",
+        "image130.png",
+        "image131.png",
+        "image132.png",
+        "image133.png",
+        "image134.png",
+        "image135.png",
+        "image136.png",
+        "image137.png",
+        "image138.png"
+      ],
+      "estimatedReadTime": 3
+    }
+  ]
+}

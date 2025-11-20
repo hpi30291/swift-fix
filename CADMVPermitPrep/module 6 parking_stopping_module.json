@@ -1,0 +1,103 @@
+{
+  "moduleId": "parking_stopping",
+  "moduleName": "Parking and Stopping",
+  "icon": "parkingsign",
+  "color": "#8B5CF6",
+  "lessons": [
+    {
+      "lessonNumber": 1,
+      "title": "Curb Colors & What They Mean",
+      "icon": "paintpalette.fill",
+      "overview": "Curb colors aren't just pretty - they're the law! Each color tells you exactly what you can and can't do. Parking in the wrong colored zone = expensive ticket. Learn the 5 curb colors you'll see on the DMV test.",
+      "keyPoints": [
+        "White curb: Stop only long enough to pick up or drop off passengers",
+        "Green curb: Park for a limited time (check signs or painted time limit)",
+        "Yellow curb: Load/unload passengers and freight only (stay with vehicle)",
+        "Red curb: NO stopping, standing, or parking (buses only if marked)",
+        "Blue curb: Disabled parking ONLY - need placard or special license plate"
+      ],
+      "detailedContent": "Painted colored curbs have special parking rules that you MUST follow. White curb means stop only long enough to pick up or drop off passengers - think quick drop-off at school. Green curb lets you park for a limited time, and the time limit may be posted on signs or painted on the curb. Yellow curb is for loading and unloading passengers and freight - do not stop longer than the time posted. If you drive a noncommercial vehicle, you are usually required to stay with your vehicle. Red curb means NO stopping, standing, or parking at any time - it's usually near fire hydrants or building entrances. Buses may stop at a red zone marked for buses only. Blue curb is parking for a disabled person or someone driving a disabled person with a special placard or special license plate. To learn more about disabled parking placards and license plates, visit dmv.ca.gov/disabled-person-parking. The placement of curb markings isn't random - you'll find them in specific places like in front of schools, hospitals, businesses, and in busy downtown areas. Always pay attention to the curb color AND any signs around it to understand the parking rules in that spot. Parking in blue zones without proper authorization, or stopping in red zones, can result in heavy fines and your vehicle being towed.",
+      "example": "You're running late to pick up your friend from the doctor's office. You see a white curb right in front - perfect! You pull up, your friend hops in (30 seconds), and you drive off. Legal! But if you'd parked there for 10 minutes while waiting, or if you'd parked at the red curb next to the fire hydrant, you'd come back to a $100+ ticket and maybe a tow.",
+      "memoryTrick": "W-G-Y-R-B colors = White Goes (passengers), Green Good (limited time), Yellow Yes (loading), Red NEVER, Blue Bluecards (disabled placards). Remember: The brighter the color, the stricter the rule (Red = strictest!).",
+      "images": [],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 2,
+      "title": "Parallel Parking Steps",
+      "icon": "car.fill",
+      "overview": "Parallel parking is THE skill that makes or breaks your driving test. Miss this and you might fail. But here's the secret: it's just 5 simple steps done in order. Master the 45-degree angle and 18-inch rule, and you'll nail it every time.",
+      "keyPoints": [
+        "Find a space at least 3 feet longer than your vehicle",
+        "Pull alongside front car, leave 2 feet between vehicles",
+        "Stop when your rear bumper aligns with front of parking space",
+        "Back in at 45-degree angle, check blind spots constantly",
+        "Straighten when rear wheel is within 18 inches of curb"
+      ],
+      "detailedContent": "Parallel parking is when you park in line with the road and other parked vehicles. Here's the exact DMV process: Step 1 - Find a space. Look for a space at least three feet longer than your vehicle. When you find a space, turn on your signal to show that you plan on parking. Step 2 - Pull up alongside the vehicle in front of the space. Leave about two feet between your vehicle and the vehicle next to you. Stop once your rear bumper is aligned with the front of your parking space. Keep your signal on. Step 3 - Check your blind spots. Look in your rearview mirror and over your shoulder for approaching vehicles and pedestrians. Step 4 - Begin backing up. Turn your steering wheel to back into the space at about a 45-degree angle. Step 5 - Straighten out. Begin turning the steering wheel away from the curb when your rear wheel is within 18 inches of the curb. You may need to pull forward and backward to straighten out. Your vehicle should now be parallel and within 18 inches of the curb. After parking, turn off your vehicle and set the parking brake. Before you exit your vehicle, look carefully for passing vehicles, bicycles, and motorcycles. Exit when safe. The key is taking it slow - rushing leads to mistakes. Practice this until the movements become automatic. On your driving test, the examiner is looking for: proper signaling, checking blind spots, smooth execution at the correct angle, and ending within 18 inches of the curb without hitting anything.",
+      "example": "During your driving test, the examiner points to a spot between two cars. You signal right, pull up next to the front car (2 feet away), align your bumpers. Check mirrors and blind spot - clear. Start backing at 45 degrees, watching your angle in the side mirror. When your rear wheel is 18 inches from curb, you straighten the wheel and adjust. Perfect - you're parallel and close to the curb. Test passed!",
+      "memoryTrick": "3-2-45-18 rule: 3 feet longer space, 2 feet from car, 45-degree angle, 18 inches from curb. Also remember S.A.C.B.S. = Signal, Align bumpers, Check blindspots, Back at 45, Straighten at 18.",
+      "images": [
+        "image127.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 3,
+      "title": "Parking on Hills",
+      "icon": "triangle.fill",
+      "overview": "Park on a hill wrong and your car becomes a 4,000-pound runaway missile. Gravity doesn't care if your parking brake fails. That's why California law requires you to turn your wheels the right direction - so your car rolls INTO the curb, not INTO traffic.",
+      "keyPoints": [
+        "ALWAYS set parking brake + leave car in park (or low gear for manual)",
+        "Downhill: Turn wheels TOWARD curb (right)",
+        "Uphill WITH curb: Turn wheels AWAY from curb (left toward center)",
+        "Uphill or Downhill NO curb: Turn wheels RIGHT (toward shoulder)",
+        "Let vehicle roll back a few inches until wheel touches curb"
+      ],
+      "detailedContent": "When you park on a hill, your vehicle could roll due to equipment failure. Remember to set the parking brake and leave the vehicle in park, or in gear for manual transmission. Here are the exact rules from the DMV: On a sloping driveway, turn the wheels so the vehicle will not roll into the street, leave the vehicle in park and set the parking brake. Headed downhill: Turn your front wheels into the curb or right toward the side of the road. Headed uphill: Turn your front wheels away from the curb (left - towards the center of the road) and let your vehicle roll back a few inches. The wheel should gently touch the curb. Headed either uphill or downhill when there is NO curb: Turn the wheels to the right so the vehicle will roll away from the center of the road if the brakes fail. Why does this matter? If your parking brake fails, you want your car to roll into the curb (which stops it) NOT into traffic where it could cause a serious crash. The curb acts as a physical barrier. By letting your car roll back a few inches until the tire touches the curb, you're creating a backup safety system. Manual transmission drivers should leave the car in first gear (uphill) or reverse (downhill) for extra security. Some drivers also use wheel blocks (wheel chocks) as an additional backup measure - these are wedges placed behind wheels to prevent rolling.",
+      "example": "You park facing uphill on a steep San Francisco street with a curb. You set the parking brake, turn your wheels LEFT (away from curb toward the middle of the road), and let the car roll back until the tire gently touches the curb. Later, your parking brake cable snaps. Your car tries to roll backward down the hill, but the front tire hits the curb and stops immediately. Disaster avoided. If you'd turned your wheels the wrong way, your car would've rolled straight down into traffic!",
+      "memoryTrick": "DOWN = wheels Down toward curb. UP = wheels Up away from curb. NO CURB = wheels to the RIGHT (away from traffic). Or remember D.U.N. = Down-toward, Up-away, No curb-right. The curb is your friend - make sure your car will hit it, not traffic!",
+      "images": [
+        "image46.png",
+        "image47.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 4,
+      "title": "Red Zones & Fire Hydrants",
+      "icon": "flame.fill",
+      "overview": "Park within 15 feet of a fire hydrant and you're not just getting a ticket - you could be blocking firefighters from saving someone's life. Red zones and fire hydrant rules are STRICTLY enforced. One ticket can cost you $100+, plus towing fees.",
+      "keyPoints": [
+        "Within 15 feet of a fire hydrant = ILLEGAL (that's about one car length)",
+        "Within 15 feet of a fire station driveway = ILLEGAL",
+        "Red curb = NO stopping, standing, or parking EVER",
+        "Within 20 feet of a crosswalk = ILLEGAL (15 feet with curb extension)",
+        "Never park where 'NO PARKING' sign is posted"
+      ],
+      "detailedContent": "The California DMV lists specific places where you must NEVER park or leave your vehicle. Here are the critical illegal parking locations: Never park within 15 feet of a fire hydrant or fire station driveway - firefighters need immediate access in emergencies. Never park within 20 feet of an unmarked or marked crosswalk, or within 15 feet of a crosswalk where a curb extension is present - blocking crosswalks endangers pedestrians. Never park where a NO PARKING sign is posted. Never park on a marked or unmarked crosswalk. Never park on a sidewalk, partially blocking a sidewalk, or in front of a driveway. Never park within three feet of a sidewalk ramp for disabled persons. Never park in front of or on a curb that provides wheelchair access to a sidewalk. Never park in the crosshatched (diagonal lines) area next to a designated disabled parking space. Never park in a space designated for parking or fueling zero-emission vehicles, unless you are driving a zero-emission vehicle. Never park in a tunnel or on a bridge, unless permitted by signs. Never park between a safety zone and curb. Never double park. These rules exist because blocking these areas creates serious safety hazards - blocked fire hydrants delay firefighters, blocked driveways trap residents, blocked crosswalks endanger pedestrians, and blocked disabled access ramps violate ADA laws. Violations typically result in tickets ranging from $100-$500, plus towing and storage fees if your vehicle is towed. In emergencies involving blocked fire hydrants, firefighters are legally authorized to break your car windows to run their hoses through.",
+      "example": "You're downtown looking for parking and spot a space on the street. You start to pull in, then notice a fire hydrant about 10 feet ahead. That's within the 15-foot no-parking zone! You keep driving and find another spot. Good call - your friend who parked near a hydrant last week got a $200 ticket AND a $300 towing fee when firefighters needed the hydrant for a building fire. Total cost: $500 for a 'convenient' parking spot.",
+      "memoryTrick": "15-15-20 rule: 15 feet from fire hydrant, 15 feet from fire station, 20 feet from crosswalk (15 with curb extension). Think 'Fire First = 15' to remember fire hydrant distance. RED = REALLY CAN'T EVER PARK.",
+      "images": [],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 5,
+      "title": "Handicap Parking & Time Limits",
+      "icon": "figure.roll",
+      "overview": "Parking in a disabled spot without a placard isn't just rude - it's a $1,000 fine in California. Handicap parking laws are among the strictest traffic laws, and they're heavily enforced. Learn what counts as illegal and why these rules matter.",
+      "keyPoints": [
+        "Blue curb/disabled space = MUST have visible placard or special license plate",
+        "NEVER park in crosshatched (diagonal lines) area next to disabled spots",
+        "Green curbs = time-limited parking (check signs or painted limits)",
+        "NEVER park within 3 feet of a disabled person sidewalk ramp",
+        "Time limits: White (passenger loading only), Green (varies - check signs)"
+      ],
+      "detailedContent": "Blue curb zones are parking for a disabled person or someone driving a disabled person with a special placard or special license plate. These spaces are strictly reserved and heavily enforced. To learn more about disabled parking placards and license plates, visit dmv.ca.gov/disabled-person-parking. It is illegal to park in these spots without proper authorization, and it's also illegal to park in the crosshatched (diagonal lines) area next to a designated disabled parking space - this area is designed as an access aisle for wheelchair users to enter/exit vehicles. Violations result in minimum $250 fines, up to $1,000 for repeated offenses. Additionally, you must never park within three feet of a sidewalk ramp for disabled persons, or in front of or on a curb that provides wheelchair access to a sidewalk. For time-limited zones: White curbs mean stop only long enough to pick up or drop off passengers - no extended parking. Green curbs allow parking for a limited time, and the time limit may be posted on signs or painted on the curb. Always check for posted signs indicating specific time restrictions. Yellow curbs are for loading and unloading passengers and freight - do not stop longer than the time posted, and if you drive a noncommercial vehicle, you are usually required to stay with your vehicle. Overstaying time limits results in parking tickets. Time limits are enforced through parking enforcement patrols who chalk tires or use license plate recognition systems. Smart parking means: always check curb colors, look for posted time limit signs, note when you parked, set a phone reminder if there's a time limit, and return before your time expires.",
+      "example": "You pull into a shopping center. There's a perfect spot close to the entrance - but it's blue with the wheelchair symbol and has diagonal lines next to it. Even though the lot is empty and you'll 'just be a minute,' you park farther away in a regular spot. Why? Because: 1) $1,000+ fine if caught, 2) Someone who actually needs that accessible space might arrive, and 3) The diagonal lined area isn't 'extra parking' - it's the loading zone for wheelchairs. Meanwhile, your friend parks at a green curb that says '30 min parking.' They set a timer and return in 25 minutes. Smart parking = no ticket!",
+      "memoryTrick": "Blue = Must have Bluecards (placards). Diagonal lines = Do Not park - it's access space! For time limits remember W.G.Y. times: White = Wait only (pickup), Green = Get limited time, Yellow = Yes but stay with vehicle. Never Ever Disable-park Illegally = $1000 fine (NEDI reminder).",
+      "images": [],
+      "estimatedReadTime": 3
+    }
+  ]
+}

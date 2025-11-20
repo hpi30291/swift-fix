@@ -1,0 +1,162 @@
+{
+  "moduleId": "defensive_driving",
+  "moduleName": "Defensive Driving Practices",
+  "icon": "eye.fill",
+  "color": "#10B981",
+  "lessons": [
+    {
+      "lessonNumber": 1,
+      "title": "Scanning & Awareness",
+      "icon": "eye.trianglebadge.exclamationmark",
+      "overview": "Your eyes are your #1 safety tool when driving! Learn how to scan properly, use your peripheral vision, check blind spots, and stay aware of everything around you - not just what's in front of your car.",
+      "keyPoints": [
+        "Scan 10-15 seconds ahead - that's about a block in the city or a quarter mile on the highway",
+        "Use your peripheral vision to catch movement on both sides without taking eyes off the road",
+        "Check blind spots by looking over your shoulder before every lane change",
+        "Every vehicle has blind spots - areas your mirrors can't show you",
+        "Keep your eyes moving - don't stare at one spot"
+      ],
+      "detailedContent": "Good driving starts with good vision and awareness. Your eyes need to do three things constantly: scan far ahead, use peripheral vision for side awareness, and check blind spots. Scan 10-15 seconds ahead - in the city that's about a block, on the highway it's about a quarter mile. This gives you time to spot hazards and react safely. Your peripheral vision lets you see movement and vehicles to your sides without turning your head away from the road ahead. The rods in your retina pick up motion and changes in light/dark at the edges of your vision - use this! Every car has blind spots - those zones beside and slightly behind you that your mirrors can't show. Before changing lanes, merging, turning, backing up, or opening your door, always look over your shoulder to check your blind spots. Don't just rely on mirrors - actually turn your head. Avoid staying in other drivers' blind spots too. Your scanning should be constant and systematic: look ahead 10-15 seconds, check rearview mirror, scan sides with peripheral vision, check blind spots when needed. Don't stare at the car directly in front of you - you need to see beyond it to anticipate problems. At intersections, scan left-right-left even if you have the right-of-way. Other drivers might run red lights or stop signs.",
+      "example": "You're driving on a 4-lane road and want to merge left. You check your left mirror - looks clear. You signal. Before you move, you glance over your left shoulder. Good thing! There's a car in your blind spot that your mirror didn't show. You wait for them to pass, check again, then safely merge left. That quick shoulder check just saved you from a crash.",
+      "memoryTip": "S.M.O.G. before lane changes: Signal, Mirrors, Over-the-shoulder, Go. Remember: Blind spots hide cars! For scanning ahead, use 10-15-3: scan 10-15 seconds ahead, check mirrors every 3-5 seconds.",
+      "images": [
+        "image17.png",
+        "image21.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 2,
+      "title": "Following Distance & Space Management",
+      "icon": "arrow.left.and.right",
+      "overview": "Tailgating kills. Learn the 2-second, 3-second, and 4-second rules to keep safe space between you and other cars. Creating a 'space cushion' around your vehicle gives you time to react and avoid crashes.",
+      "keyPoints": [
+        "Minimum: 2-second rule for normal conditions (but 3 seconds is better)",
+        "3-second rule: When being tailgated, in bad weather, or increased speeds",
+        "4-second rule: When following motorcycles, trucks, buses, or carrying heavy loads",
+        "Never tailgate - it's dangerous and illegal",
+        "Create space cushions on all sides of your vehicle when possible"
+      ],
+      "detailedContent": "Following distance is THE most important defensive driving skill. The 2-second rule is the absolute minimum - pick an object ahead (sign, tree, shadow), when the car in front passes it, count '1-Mississippi, 2-Mississippi.' You should reach that object no sooner than 2 seconds later. But 3 seconds is way better and safer. Increase to 3 seconds when: someone's tailgating YOU (more space ahead means safer stops), your vision is blocked, speeds increase, or weather is bad. Increase to 4 seconds when: following motorcycles (riders get thrown if they crash), being passed (give passing car merge space), following buses (they stop frequently), following trucks (they block your view ahead), or hauling trailers/heavy loads (takes longer to stop). Why does this matter? At 55 mph, you travel 81 feet per SECOND. A 2-second gap gives you 162 feet to react. That's barely enough. A 3-second gap gives you 243 feet - much better. If someone cuts in front of you, don't hit your brakes hard - just ease off the gas to rebuild your space cushion. Space cushions mean creating empty space around your vehicle on all sides. Don't drive in clusters or packs. Avoid driving directly beside other cars. Don't linger in others' blind spots. Position yourself where you have the most escape routes.",
+      "example": "You're on the freeway maintaining a 3-second gap behind the car ahead. Suddenly they slam their brakes for stopped traffic you couldn't see. You have time to brake smoothly and avoid hitting them. The guy behind you was tailgating - he rear-ends you, but because you left space ahead, you don't get pushed into the car in front. Your 3-second gap just saved you from a multi-car pileup.",
+      "memoryTip": "2-3-4 Rule: 2 seconds minimum, 3 seconds normal, 4 seconds when following MBTB (Motorcycles, Buses, Trucks, Big-loads). Space Cushion = S.A.F.E: Space All around For Escape!",
+      "images": [
+        "image81.png",
+        "image111.png",
+        "image112.png",
+        "image137.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 3,
+      "title": "Speed Control & Curves",
+      "icon": "speedometer",
+      "overview": "Physics doesn't care about your confidence - it WILL throw your car off the road if you take curves too fast. Learn how speed, curves, and forces like centrifugal force work together, and how to stay in control.",
+      "keyPoints": [
+        "Slow down BEFORE entering curves, not during or after",
+        "Centrifugal force pulls your car toward the outside of curves",
+        "The faster you go, the more kinetic energy your car has",
+        "Doubling your speed QUADRUPLES your kinetic energy (and crash impact)",
+        "On hills: shift to low gear going down to use engine braking"
+      ],
+      "detailedContent": "Speed and curves involve serious physics. Kinetic energy is energy from motion - the faster you go, the more you have. Here's the scary part: if you double your speed from 30 to 60 mph, your kinetic energy doesn't just double - it QUADRUPLES. That means 4 times the impact force if you crash. Every 1% increase in speed = 2% more crash risk, 3% more serious injury risk, and 4% more death risk. When you take a curve, centrifugal force tries to pull your car toward the outside of the curve. Drive too fast and this force can push you into the opposite lane or off the road completely. The solution? Slow down BEFORE the curve using gentle braking, not sharp braking. Look through the curve where you want to go, not at the edge of the road. Accelerate gently once you're halfway through and the steering wheel is straightening. Never brake hard or make sudden steering movements in a curve - that's how you lose traction and spin out. On hills, gravity works against you going up (press gas to maintain speed) and speeds you up going down. Going downhill, shift into a lower gear and use engine braking instead of riding your brakes. Brakes can overheat on long downhills and become less effective or fail. Friction between your tires and road is what gives you control. Reduce that friction (wet roads, bald tires, gravel) and you lose control fast.",
+      "example": "You're driving on a winding mountain road at 50 mph, approaching a sharp curve marked 35 mph. You ignore the sign thinking you can handle it. Mid-curve, your car starts sliding toward the outside - centrifugal force is winning. You panic, hit the brakes hard, and lose all traction. Your car spins. Luckily there's no oncoming traffic and you stop just before the guardrail. Next curve? You slow to 30 mph BEFORE entering it. No drama, smooth turn, perfect control.",
+      "memoryTip": "S-L-A-C for curves: Slow down, Look ahead through the curve, Accelerate gently mid-turn, Complete the turn. Remember: Double speed = QUAD kinetic energy! On hills: L.O.W. = Lower gear Opposes Weight (of gravity).",
+      "images": [
+        "image44.png",
+        "image45.png",
+        "image51.png",
+        "image57.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 4,
+      "title": "Weather Driving: Rain, Fog & Wind",
+      "icon": "cloud.rain.fill",
+      "overview": "Rain, fog, and wind turn driving into a whole different challenge. Visibility drops, traction disappears, and your car becomes harder to control. Learn how to handle each weather condition safely - or when to just stay home.",
+      "keyPoints": [
+        "Rain: Turn on headlights, slow down, increase following distance to 4+ seconds",
+        "Hydroplaning: If you feel it, ease off gas - DON'T brake or steer suddenly",
+        "Fog: Use LOW beams (high beams reflect and blind you), drive slowly, listen for other cars",
+        "Wind: Reduce speed, grip steering wheel firmly, be extra careful on bridges and open areas",
+        "If weather is too bad, pull off and wait it out"
+      ],
+      "detailedContent": "Weather changes everything about driving. In RAIN: visibility drops, roads get slick, stopping distances increase. Turn on your headlights (required when wipers are on), slow down, increase following distance to 4-5 seconds, and avoid sudden movements. Drive in the tire tracks of the car ahead (less standing water). Don't go through deep water - if you must, go slowly to avoid splashing water into the engine. HYDROPLANING happens when your tires ride on top of water instead of gripping the road. You'll feel like you're floating/sliding. If this happens: take your foot OFF the gas, do NOT brake, do NOT steer, wait for your tires to regain traction. Avoid it by slowing down in rain and keeping good tire tread. In FOG: use LOW beam headlights, NOT high beams (fog reflects bright light back at you making it worse). Turn on your defroster and wipers. Slow way down - drive only as fast as you can see. If fog is thick, don't pass or change lanes. Listen for other vehicles. Use the right edge of the road as a guide. If fog gets too thick, pull completely off the road, turn on hazards, and wait. With WIND: reduce speed (gives you more control), grip steering wheel firmly with both hands, be ready for sudden gusts that can push your car sideways, watch for debris in road, avoid driving large vehicles/trucks/vehicles with trailers, and be extra careful on bridges and open areas where wind is strongest.",
+      "example": "You're driving in heavy rain on the freeway at 65 mph. Suddenly your steering feels loose and your car starts drifting slightly - you're hydroplaning! Your first instinct is to brake hard and steer back, but you remember: ease off gas, no brakes, no steering. You keep the wheel straight and lift your foot from the gas. After 2 seconds that feel like forever, your tires grip again. You slow down to 50 mph for the rest of the drive in rain. Crisis avoided.",
+      "memoryTip": "R.A.I.N. driving: Reduce speed, Avoid sudden moves, Increase following distance, No high-beams (in fog). Hydroplaning = L.E.T. go: Lift off gas, Ease pressure, Traction returns. FOG = S.L.O.W: See less, LOW beams, Off road if thick, Wait it out.",
+      "images": [
+        "image144.png",
+        "image145.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 5,
+      "title": "Night Driving",
+      "icon": "moon.stars.fill",
+      "overview": "Everything's harder at night - you can't see as far, other vehicles are harder to spot, and your reaction time shrinks. Master headlight use, deal with glare from oncoming cars, and learn why night driving is one of the most dangerous times to drive.",
+      "keyPoints": [
+        "Use low-beam headlights 30 minutes after sunset to 30 minutes before sunrise",
+        "Use high-beams on dark roads, but dim them within 500 feet of oncoming traffic",
+        "If blinded by oncoming high-beams, look toward the right edge of your lane",
+        "At night you can only see as far as your headlights reach",
+        "Clean headlights, windshield, and mirrors regularly - dirt makes night glare worse"
+      ],
+      "detailedContent": "Night driving is dangerous - about half of all traffic deaths happen at night even though there's less traffic. Your night vision relies on the rods in your retina that detect light, movement, and shapes, but you still need headlights. LOW-BEAM headlights point downward to light the road without blinding other drivers. Use them: 30 minutes after sunset until 30 minutes before sunrise, in bad weather (rain, fog, snow), anytime visibility is under 1,000 feet, and on mountain roads even during the day. LOW beams must let you see at least 100 feet ahead. HIGH-BEAM headlights point straight ahead and must let you see at least 350 feet. Use them on dark country roads and highways with no other cars around. BUT: dim to low-beams when within 500 feet of oncoming cars or within 300 feet of cars you're following. NEVER use high beams as a substitute for broken low-beams - that's illegal. If oncoming drivers blind you with their high-beams, DON'T look directly at their lights. Look toward the right edge of your lane and watch them with peripheral vision. Don't retaliate by leaving your high-beams on - that just makes it dangerous for both of you. Keep your headlights, taillights, windshield, and mirrors clean - grime makes glare way worse at night. Dim your dashboard lights when driving in dark conditions so your eyes adjust better. At night: motorcycles, pedestrians, and bicyclists are much harder to see - be extra alert.",
+      "example": "You're driving on a dark country road with high-beams on. You see headlights approaching about 3 blocks ahead. You switch to low-beams immediately since they're within 500 feet. They pass. You switch back to high-beams. A few minutes later, another car approaches but doesn't dim their high-beams - you're blinded. Instead of staring at their lights or retaliating, you look at the right edge line of your lane and slow down slightly. They pass, your vision returns. Safe driving wins.",
+      "memoryTip": "Night driving: 5-3-1 rule: dim high-beams within 500 feet oncoming, 300 feet following, 100 feet low-beam visibility needed. If blinded: E.R.A = Eyes Right Away (look right, not at lights). Use high-beams when: D.A.R.K = Dark roads, Away from traffic, Rural highways, Keep dimming when needed.",
+      "images": [
+        "image22.png",
+        "image82.png"
+      ],
+      "estimatedReadTime": 2
+    },
+    {
+      "lessonNumber": 6,
+      "title": "Defensive Driving Mindset",
+      "icon": "shield.fill",
+      "overview": "Defensive driving isn't about driving slow - it's about driving smart. Expect the unexpected, don't assume other drivers will do what they're supposed to, and always have an escape plan. Your goal? Avoid accidents even when other people make mistakes.",
+      "keyPoints": [
+        "Never assume other drivers will follow the rules or signals",
+        "Scan for hazards constantly and have an escape route planned",
+        "Leave yourself an 'out' - space to swerve or brake if needed",
+        "Stay alert - avoid drowsy driving, distractions, and making assumptions",
+        "Think ahead: 'What if that car runs the red light? What if that pedestrian steps out?'"
+      ],
+      "detailedContent": "Defensive driving is THE key to staying safe. It means expecting other drivers to make mistakes and being ready to avoid crashes even when you have the right-of-way. Never assume: Just because someone signals doesn't mean they'll turn. Just because you have a green light doesn't mean others will stop at red. Just because you see someone doesn't mean they see you. Stay alert by getting enough sleep, taking breaks every 2 hours on long drives, avoiding late-night driving when you're tired, and never driving after drinking or using drugs. Scan constantly 10-15 seconds ahead and check your mirrors every 3-5 seconds. At intersections, look left-right-left even with a green light. Always have an escape route - a plan for where you'll go if the car ahead stops suddenly or someone merges into you. Ask yourself: Can I swerve left? Right? Do I have space to brake? Position yourself in traffic to maximize your options. Don't drive in tight packs or clusters - create space around your vehicle. Avoid driving directly beside other cars. If someone's lingering in your blind spot, speed up or slow down to change positions. Anticipate hazards by thinking ahead: 'That car at the intersection might run the stop sign - I'll cover my brake.' 'That pedestrian on the sidewalk might step into the street - I'll move left in my lane and slow down.' Defensive driving isn't paranoia - it's awareness and preparation.",
+      "example": "You're approaching an intersection with a green light. Most drivers would just cruise through. But you notice a car approaching fast from the right with a red light. You cover your brake and slow down. Good thing - they blow through the red light right in front of you. You brake smoothly and avoid them. Your defensive mindset just saved you from getting T-boned.",
+      "memoryTip": "Defensive driving = S.E.E.D: Scan ahead constantly, Expect the unexpected, Escape route always ready, Don't assume anything. Remember: A.L.E.R.T = Anticipate problems, Look for hazards, Escape routes planned, React calmly, Think ahead!",
+      "images": [
+        "image108.png",
+        "image110.png",
+        "image115.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 7,
+      "title": "Common Mistakes New Drivers Make",
+      "icon": "exclamationmark.triangle.fill",
+      "overview": "New drivers all make similar mistakes - not because you're bad drivers, but because you're still learning. Understanding these common errors helps you avoid them and build good habits from the start.",
+      "keyPoints": [
+        "Improper braking: New drivers brake too hard or not hard enough",
+        "Over-steering and panic reactions: Staying calm is key",
+        "Getting distracted: Phones, friends, food, music - keep focus on driving",
+        "Following too closely without realizing it",
+        "Not checking blind spots before changing lanes"
+      ],
+      "detailedContent": "Every new driver makes these mistakes - knowing them helps you avoid them. IMPROPER BRAKING: New drivers often brake too hard (jerky stops) or too soft (not stopping in time). Practice smooth, gradual braking by pressing the pedal gently at first, then increasing pressure. In emergencies, brake firmly but don't slam so hard you lose control. OVER-STEERING: When something unexpected happens, new drivers panic and over-steer (turn the wheel too much). This makes things worse. Practice staying calm and making small, controlled steering adjustments. In a skid, steer in the direction you want to go, don't brake suddenly. DISTRACTIONS: This is the #1 new driver killer. Phones, passengers, music, food, putting on makeup, reading - all of it waits. Your full attention must be on driving. Cognitive distractions (daydreaming, deep conversations) are just as dangerous as visual ones. FOLLOWING TOO CLOSE: New drivers don't realize how close they're following. Use the 3-second rule minimum - you need space to react. FORGETTING BLIND SPOTS: Mirrors don't show everything. Always look over your shoulder before changing lanes. POOR SCANNING: New drivers stare at the car right in front instead of scanning ahead and around. Look 10-15 seconds ahead. RUSHING: Take your time. It's okay to go slow while learning. Don't let other drivers pressure you. Making mistakes is part of learning - but being aware of common errors helps you skip past them faster.",
+      "example": "You're a new driver merging onto the freeway. You check your mirror - clear! You start merging and suddenly hear a horn BLARING. There was a car in your blind spot that you didn't see by turning your head. You swerve back into your lane, shaken. From now on, you ALWAYS do the full S.M.O.G. check: Signal, Mirrors, Over-the-shoulder blind spot check, then Go. That horn taught you a lesson without anyone getting hurt.",
+      "memoryTip": "Common new driver mistakes = B.O.D.S: Braking (too hard/soft), Over-steering (panicking), Distractions (phones/friends), Scanning (forgetting to look ahead). Stay C.A.L.M: Check blind spots Always, Look 3-seconds ahead, Make smooth movements!",
+      "images": [
+        "image199.png",
+        "image200.png",
+        "image203.png",
+        "image204.png"
+      ],
+      "estimatedReadTime": 3
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "moduleId": "traffic_laws",
+  "moduleName": "Traffic Laws",
+  "icon": "doc.text.fill",
+  "color": "#3B82F6",
+  "lessons": [
+    {
+      "lessonNumber": 1,
+      "title": "Speed Limits & When to Adjust",
+      "icon": "speedometer",
+      "overview": "Speed limits aren't just numbers on signs - they're the law! California has different speed limits for different situations, and knowing when to slow down could save your life. Let's break down when you need to adjust your speed.",
+      "keyPoints": [
+        "Basic Speed Law: Never drive faster than is safe for current conditions",
+        "Highway speed limit is usually 65 mph (70 mph if posted)",
+        "Residential areas: 25 mph, School zones: 25 mph when kids present, Alleys: 15 mph",
+        "You can get a ticket for driving too slow AND too fast",
+        "Weather, traffic, and road conditions should always affect your speed"
+      ],
+      "detailedContent": "California has three main speed law types you need to know. First, the Basic Speed Law (CVC 22350) says you must drive at a safe speed for conditions - even if that means going slower than the posted limit. Driving 65 mph in heavy rain or fog? That's illegal even if the sign says 65. Second, Prima Facie speed limits are the default limits when no sign is posted: 25 mph in residential areas and when children or seniors are present, 15 mph in alleys, 55 mph on two-lane undivided highways, and 65 mph on most CA freeways (70 mph where posted). Third, you need to match the flow of traffic - but never exceed the speed limit to do so. Going way slower than everyone else is also dangerous and can get you cited for impeding traffic. Here's what really matters: adjust your speed based on how many cars are around you, weather conditions (rain, fog, snow make roads slick), whether there are pedestrians or bikes nearby, and the road surface (wet, dry, gravel, etc.). Speed limits are maximums, not targets. If it's raining and visibility is poor, slow down! Your goal is to arrive safely, not quickly.",
+      "example": "You're driving on the freeway where the speed limit is 65 mph, and suddenly heavy fog rolls in. You can barely see 50 feet ahead. Even though everyone else is still going 60+ mph, you slow down to 45 mph. A car zooms past you - and seconds later you see brake lights and hear a crash ahead. Your decision to follow the Basic Speed Law just kept you out of that pile-up.",
+      "memoryTip": "B-A-D speeds get tickets: Basic (too fast for conditions), Above (exceeding limit), Dangerously slow. Remember 2-5-6: 25 mph (residential/school), 15 mph (alleys), 65 mph (highway).",
+      "images": [
+        "image136.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 2,
+      "title": "Lane Rules & Passing Laws",
+      "icon": "arrow.left.arrow.right",
+      "overview": "Lanes aren't just suggestions painted on the road - they have rules! Learn when you can pass, when you MUST stay in your lane, and how to do it all safely and legally.",
+      "keyPoints": [
+        "Pass on left only when broken yellow line is on your side",
+        "Need 1,600 feet (over a third of a mile) of clear road to pass safely",
+        "Cannot pass within 100 feet of intersections, railroad crossings, or bridges",
+        "Stay in your lane - no weaving in and out of traffic",
+        "Signal 100 feet before changing lanes or turning"
+      ],
+      "detailedContent": "Lane discipline is crucial for safety. First, understand lane markings: broken yellow line means passing is allowed if safe, solid yellow means no passing, double solid yellow means absolutely no passing (except turning left into driveways). When passing is legal (CVC 21750), you need to see at least 1,600 feet ahead, have no oncoming vehicles, and never exceed the speed limit while passing. Passing is illegal (CVC 21752) on hills or curves where you can't see ahead, within 100 feet of intersections, bridges, tunnels, or railroad crossings. You can pass on the right only on freeways with multiple lanes or when the vehicle ahead is turning left - but never on the shoulder. When being passed, don't speed up (that's illegal under CVC 21753!) and stay in your lane. For turns, signal at least 100 feet before (CVC 22108). You must stay in your lane on roads with lane markings (CVC 21658) - sudden lane changes cause crashes. If you're driving slower than traffic, use the right lane. Left lanes are for passing and faster traffic. On two-lane roads, if 5+ vehicles are behind you, use a turnout to let them pass. Weaving between lanes doesn't get you there faster - it just increases crash risk and gets you pulled over.",
+      "example": "You're on a two-lane road stuck behind a tractor going 30 mph. You see a broken yellow line on your side. You check - the road ahead is clear for over a quarter mile, no oncoming cars. You signal, move left, speed up to 45 mph (still under the 55 limit), pass the tractor, and merge back right. Legal pass! But if you'd passed on a curve, near an intersection, or had to go 60 mph to pass, that would've been illegal.",
+      "memoryTip": "16-10-10 rule: need 1,600 feet clear, 100 feet signal before turn, 100 feet no passing near intersections. Solid yellow = Stay Your side. Broken = Bye-bye (you can pass)!",
+      "images": [
+        "image82.png",
+        "image83.png",
+        "image84.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 3,
+      "title": "Intersection Rules",
+      "icon": "arrow.triangle.branch",
+      "overview": "Intersections are where most crashes happen! Master the rules for controlled and uncontrolled intersections, turning, and U-turns to stay safe and legal.",
+      "keyPoints": [
+        "At uncontrolled intersections, vehicle on the right has right-of-way",
+        "When turning left, you must yield to oncoming traffic",
+        "U-turns are illegal in business districts unless at an intersection",
+        "Must see 200 feet in each direction before making a U-turn",
+        "Can't make U-turns across double yellow lines, at railroad crossings, or on one-way streets"
+      ],
+      "detailedContent": "Intersections come in two types: controlled (with signs/signals) and uncontrolled (no signs). At controlled intersections, follow the signals and signs - pretty straightforward. At uncontrolled intersections, the vehicle on the right has right-of-way if you arrive at the same time (CVC 21800). Always yield to pedestrians and vehicles already in the intersection. For left turns (CVC 21801), you must yield to all oncoming traffic - if your turn would make them slow down or stop, wait for a bigger gap. Red light turns: you can turn right on red after stopping completely, unless a sign says 'No Turn on Red.' U-turns have strict rules (CVC 22100-22105): you must be in the far left lane or center turn lane, need 200 feet visibility in all directions in residential areas, can do them on divided highways only where there's an opening, and they're illegal across double solid yellow lines, at railroad crossings, in front of fire stations, on one-way streets, and in business districts unless you're at an intersection. When making any turn, use the appropriate lane - right turns from the far right lane (stay tight to the curb), left turns from the far left lane. Signal your intentions 100 feet before the turn. Never change lanes or make sudden turns while in an intersection.",
+      "example": "You need to turn around. You spot a side street and think about making a U-turn mid-block in this business district. STOP! That's illegal. You drive to the next intersection with a traffic light, wait in the left turn lane, check that you can see 200 feet in all directions, make sure no signs prohibit U-turns, and when the light turns green, you complete your U-turn legally from the far left lane.",
+      "memoryTip": "Right-of-way = 'Right' has right-of-way (when arriving together). U-turn rules: 200 feet visibility, Left lane only, No business districts mid-block = 'U-LN' (you learn!). Red light right turn: Stop, Scan, Safe = Go.",
+      "images": [
+        "image86.png",
+        "image143.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 4,
+      "title": "Right of Way Basics",
+      "icon": "hand.raised.fill",
+      "overview": "Right-of-way rules prevent crashes by telling drivers who goes first. These aren't suggestions - they're laws that could save your life. Learn when to stop, yield, and go.",
+      "keyPoints": [
+        "Pedestrians ALWAYS have right-of-way in crosswalks (marked or unmarked)",
+        "Emergency vehicles with lights/sirens - pull right and stop",
+        "At 4-way stop, first to arrive goes first; if tied, right vehicle goes first",
+        "When turning left, yield to ALL oncoming traffic",
+        "Don't follow emergency vehicles within 300 feet"
+      ],
+      "detailedContent": "Right-of-way rules (CVC 21800-21806) determine who must yield to prevent conflicts and crashes. At intersections, if you arrive at the same time as another vehicle, the car on your right goes first. At stop signs, first car to complete their stop goes first. If everyone stops together, car on the right goes first, or use eye contact and hand signals. Always yield to pedestrians - they have right-of-way in all crosswalks, marked or unmarked. Emergency vehicles (police, fire, ambulance) with flashing lights and sirens activated get right-of-way over everyone (CVC 21806). When you see/hear them, pull to the right edge of the road and stop until they pass. If you're in an intersection, clear it first, then pull over. Never follow within 300 feet of an emergency vehicle with lights/sirens on (CVC 21706). When turning, left turns yield to oncoming traffic and pedestrians. Right turns yield to pedestrians in the crosswalk. At roundabouts, traffic inside has right-of-way over vehicles entering. School buses with flashing red lights and stop sign extended require you to stop in both directions (unless on opposite side of divided highway). The key principle: being 'right' doesn't matter if you're in a crash. Defensive driving means yielding even when you have right-of-way if it prevents a collision. Your goal is safety, not proving a point.",
+      "example": "You're approaching an intersection and see an ambulance with lights and sirens coming up fast behind you. You're in the middle of the intersection, so you proceed through it, then immediately pull to the right and stop. The ambulance zooms past. You wait until it's well ahead before continuing. Perfect! You cleared the intersection safely, then gave them right-of-way by pulling right and stopping.",
+      "memoryTip": "P.E.R.F. has right-of-way: Pedestrians, Emergency vehicles, Right (car on your right), First (first to arrive). 3-3-3: within 300 feet of emergency vehicles is illegal!",
+      "images": [],
+      "estimatedReadTime": 2
+    },
+    {
+      "lessonNumber": 5,
+      "title": "Cell Phone & Distracted Driving Laws",
+      "icon": "phone.down.fill",
+      "overview": "Your phone can wait - seriously! California has strict laws about phone use while driving. For teens, the rules are even stricter. One text isn't worth your life or license.",
+      "keyPoints": [
+        "MINORS: Cannot use cell phone AT ALL while driving (not even hands-free!)",
+        "Adults can only use phones in hands-free mode",
+        "No texting while driving - period, for anyone",
+        "Can only touch phone once to activate voice commands",
+        "Exception for minors: emergency calls only (911)"
+      ],
+      "detailedContent": "California takes distracted driving seriously because it kills. According to NHTSA, 3,522 people died in distracted driving crashes in 2021. For teen drivers (15-20), distracted driving is the #1 crash cause. Cell phone laws are age-specific and strict. If you're under 18, you CANNOT use a cell phone or wireless device for ANY reason while driving - no calls, no texts, not even hands-free (CVC 23124). The only exception is calling 911 for emergencies. Adults can use phones in hands-free mode only - mounted on windshield, dashboard, or console where it doesn't block the view. You can activate it with one swipe or voice command, but that's it. No one, regardless of age, can text while driving - sending, reading, or composing texts is illegal for everyone. Beyond phones, other distractions are dangerous: loud music (also illegal if wearing headphones/earbuds in both ears), eating, applying makeup, reaching for objects, arguing with passengers. Setting up GPS must be done before you start driving - no programming while moving. Children are 4x more distracting than adult passengers, infants 8x more. Secure pets in carriers - never let them roam or sit on your lap while driving. The law is clear, but here's the reality: looking at your phone for just 5 seconds at 55 mph means you travel the length of a football field blind. One text message can change - or end - lives.",
+      "example": "Your phone buzzes with a text while you're driving to school. You're tempted to check it, but you remember - you're 16, so touching your phone at all is illegal and could cost you your license. You let it buzz. At the next red light, you're still tempted, but resist - you're still driving. When you get to school and park, THEN you check it. It was just a meme from your friend. Totally not worth risking your license or your life.",
+      "memoryTip": "Under 18 = Under NO circumstances (use phone while driving). TEXT = Terrible EXcuse for Tragedy. 5 seconds looking = Football field blind!",
+      "images": [
+        "image200.png",
+        "image201.png",
+        "image202.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 6,
+      "title": "Seatbelt & Child Safety Laws",
+      "icon": "seatbelt.fill",
+      "overview": "Seatbelts aren't optional - they're required by law and save lives. From 1975-2017, seatbelts saved 374,196 lives! Learn the rules for yourself, your passengers, and kids.",
+      "keyPoints": [
+        "Everyone in the vehicle must wear a seatbelt - driver AND all passengers",
+        "Children under 2 must be in rear-facing car seats",
+        "Children under 8 (or under 4'9\") must be in car/booster seats",
+        "Kids under 13 should ride in the back seat",
+        "Driver can be ticketed if passengers under 16 aren't buckled"
+      ],
+      "detailedContent": "Seatbelt laws are straightforward: everyone wears one, every time (CVC 27315). The driver must wear a seatbelt, and every passenger 16+ must buckle up. If you're the driver, you're responsible for making sure all passengers under 16 are properly restrained - you can get ticketed for their violations. Proper seatbelt use means lap belt low across your hips (not stomach), shoulder belt across chest and shoulder (never under your arm or behind your back). Child safety seat laws (CVC 27360) are age and size specific: Under 2 years old must be in rear-facing car seats (unless over 40 pounds or 40 inches tall). Under 8 years old or under 4'9\" tall must be in appropriate car seat or booster seat in the back seat. 8+ years old or 4'9\"+ tall can use regular seatbelts. Kids under 13 should always ride in back seats for safety. Airbags deploy with tremendous force - a child in a rear-facing seat in the front seat can be seriously injured or killed. Seatbelts work by counteracting inertia - when your car stops suddenly, your body wants to keep moving forward at the same speed. Without a seatbelt, you'll hit the dashboard, windshield, or get ejected from the vehicle. Seatbelts keep you in your seat and distribute crash forces across your strongest body parts. It's illegal to ride in the back of a pickup truck unless you're wearing a seatbelt. Both driver and passengers can be cited for not wearing seatbelts.",
+      "example": "You're driving your 7-year-old sister and your 17-year-old friend. Your sister is in her booster seat in the back (required - she's under 8). Your friend buckles up in front. You buckle up too. A cop pulls up next to you at a light and gives you a thumbs up - everyone's legal! But if your sister wasn't in her booster or your friend wasn't buckled, YOU would get the ticket as the driver.",
+      "memoryTip": "Under 2 = Rear-facing. Under 8 = Booster/Car seat. Under 13 = Back seat. Under 16 = Driver's ticket! Remember: Click it for the driver, click it for the ticket!",
+      "images": [
+        "image159.png",
+        "image160.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 7,
+      "title": "License & Registration Requirements",
+      "icon": "creditcard.fill",
+      "overview": "Your license is your permission to drive - and it comes with rules! Learn the steps to get your provisional license, the restrictions that come with it, and what you need to keep in your car.",
+      "keyPoints": [
+        "Must be 15½ to get learner's permit (after completing driver's ed)",
+        "Need permit for 6 months + 50 hours practice (10 at night) before license",
+        "Provisional license at 16 has restrictions until you're 18",
+        "Can't drive between 11pm-5am or with passengers under 20 (first year)",
+        "Must carry license, registration, and proof of insurance while driving"
+      ],
+      "detailedContent": "Getting your license is a multi-step process (CVC 12509, 12800, 12814). Step 1: Complete driver's ed (that's this course!). Step 2: At 15½, apply for learner's permit - take written test (46 questions, need 38 correct) and vision test, pay $45 fee. With permit, you can practice with a licensed adult 25+ in the car. Step 3: Hold permit for 6+ months, complete 50 hours supervised practice (10 at night), and 6 hours professional behind-the-wheel training. Step 4: At 16, take driving test to get provisional license (CVC 12814.6). Your provisional license has restrictions for first 12 months: no driving between 11pm-5am, no passengers under 20 unless accompanied by licensed parent/guardian or adult 25+, cannot drive for pay or use commercial vehicles. Exceptions exist for school, work, or medical needs (must carry signed note). At 18, restrictions drop and you get a full license. You must always carry your driver's license, vehicle registration, and proof of insurance while driving. License plates must be displayed on front AND rear, clearly visible and unobscured (CVC 5200-5203). Registration must be current - renewed yearly. Driving without a license is illegal (CVC 12500) and can result in vehicle impoundment. If your license is suspended or revoked, driving anyway (CVC 14601) leads to serious penalties including jail time.",
+      "example": "You just turned 16 and passed your driving test - congrats! Your provisional license arrives. Friday night, your friends want you to drive them to a movie at 10pm. You check the time - movie ends at midnight. That means you'd be driving past 11pm in your first year with passengers under 20. Illegal! You suggest a 7pm showing instead, or you all get a ride from someone over 18. Crisis averted - no ticket, no suspended license.",
+      "memoryTip": "6-5-1: 6 months permit, 50 hours practice, 11pm-5am no driving (first year). Carry 3 things: License, Registration, Insurance = 'L-R-I' (legally required items!). Age 15½ permit, 16 provisional, 18 full.",
+      "images": [
+        "image71.png",
+        "image72.png",
+        "image76.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 8,
+      "title": "Moving Violations & Penalties",
+      "icon": "exclamationmark.octagon.fill",
+      "overview": "Breaking traffic laws isn't just dangerous - it has real consequences! From points on your record to license suspension, learn what happens when you violate traffic laws.",
+      "keyPoints": [
+        "Traffic violations add points to your record (1 point for most, 2 for serious)",
+        "4 points in 12 months = license suspension",
+        "As a minor: 1 violation = warning, 2 = 30-day restriction, 3 = 6-month suspension",
+        "DUI for anyone under 21 results in 1-year license suspension",
+        "Points stay on your record for 36+ months"
+      ],
+      "detailedContent": "California uses a point system to track driving violations (CVC 12810). Most violations like speeding, running red lights, or unsafe lane changes = 1 point. Serious violations like reckless driving or DUI = 2 points. At-fault accidents = 1 point. Adult drivers face suspension at: 4 points in 12 months, 6 points in 24 months, or 8 points in 36 months. Minor drivers (under 18) face stricter penalties: 1 at-fault collision OR 1 violation conviction = warning letter and possible restrictions. 2 at-fault collisions, 2 violations, or 1 of each = 30-day driving restriction (can only drive with licensed adult 25+ in car). 3 or more = 6-month license suspension and 1 year probation. Turning 18 doesn't erase these penalties - they continue until completed. DUI/drug violations are especially severe for minors - automatic 1-year suspension (CVC 13353.3). Traffic school can prevent 1-point violations from being reported to insurance (once every 18 months), but points still go on your DMV record. Reckless driving (CVC 23103) conviction means 5-90 days jail and/or $145-$1,000 fine. Speeding over 100 mph = automatic 30-day suspension (first offense), 60 days (second), 6 months (third). Driving on a suspended license (CVC 14601) = additional fines and jail time. License suspensions require you to file an SR-22 (proof of insurance) to get license back, costing hundreds extra. The financial impact extends beyond fines - insurance rates skyrocket with violations, costing thousands over time.",
+      "example": "You're 17 and got a speeding ticket 4 months ago (1 point). Today you rolled through a stop sign and got another ticket (1 point). That's 2 violations. The DMV sends you a letter: for the next 30 days, you can only drive with a licensed adult 25+ in the car. Your solo driving freedom = gone. One more violation in the next year and you're looking at a 6-month suspension. Those two 'minor' violations just cost you your independence.",
+      "memoryTip": "Point system: 1-2-4 (most violations 1 point, serious 2 points, 4 points = bye-bye license). Minor penalties: 1-2-3 strikes (1 warning, 2 restricted, 3 suspended). DUI for under 21 = 1 year gone!",
+      "images": [
+        "image100.png",
+        "image101.png",
+        "image102.png"
+      ],
+      "estimatedReadTime": 3
+    }
+  ]
+}

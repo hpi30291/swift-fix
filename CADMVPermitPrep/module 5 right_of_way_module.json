@@ -1,0 +1,150 @@
+{
+  "moduleId": "right_of_way",
+  "moduleName": "Right of Way Rules",
+  "icon": "arrow.triangle.swap",
+  "color": "#8B5CF6",
+  "lessons": [
+    {
+      "lessonNumber": 1,
+      "title": "4-Way Stop Rules",
+      "icon": "stop.fill",
+      "overview": "Four-way stops can be confusing! Who goes first when everyone arrives at once? Learn the rules that prevent crashes and keep traffic flowing smoothly at 4-way stops.",
+      "keyPoints": [
+        "First to arrive and complete stop = first to go",
+        "If two arrive together, vehicle on the RIGHT goes first",
+        "If you arrive at exact same time from opposite directions, straight traffic goes before turns",
+        "Left turns always yield to oncoming straight/right-turning traffic",
+        "Make EYE CONTACT and use hand signals if unclear who arrived first"
+      ],
+      "detailedContent": "A 4-way stop (also called an all-way stop) has stop signs at all four corners of the intersection. Here's the sequence: The vehicle that arrives first and completes their stop first has right-of-way (CVC 21800). They go first. If you arrive at the same time as another vehicle, the car on your right gets right-of-way. If two vehicles arrive simultaneously from opposite directions (facing each other), and one is going straight while the other is turning left, the straight vehicle goes first. Left turns ALWAYS yield to oncoming traffic. If everyone arrives at exactly the same time (rare but happens), use eye contact and hand signals to communicate who will go first - usually the vehicle on the right proceeds. Never assume others will follow the rules - make eye contact before proceeding even when you have right-of-way. Common mistake: doing a 'rolling stop' (not coming to complete stop). This is illegal and you lose your right-of-way. Your stop is only complete when your wheels fully stop moving. At the limit line before the crosswalk (or before the intersection if no line exists), come to a complete stop, count '1-2-3,' scan left-right-left, then proceed when safe. If a pedestrian is crossing or about to cross, they have absolute right-of-way over all vehicles. Wait until they're completely clear before proceeding. Don't honk or rush pedestrians - that's aggressive and illegal.",
+      "example": "You approach a 4-way stop. A car to your right arrives 2 seconds before you. You both stop completely. Even though you finished stopping first, the other car arrived at the intersection first, so they have right-of-way. They go. Now you're first to arrive compared to the cars behind them. You check for pedestrians, scan the intersection, and go. Perfect execution!",
+      "memoryTip": "F.I.R.S.T rule: First to arrive, goes first. If tied: Right side wins. Straight beats turning. Talk with eyes! 1-2-3 Count = complete stop (3 seconds stopped). Left turns Last (always yield to oncoming).",
+      "images": [
+        "image5.png",
+        "image6.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 2,
+      "title": "Uncontrolled Intersections",
+      "icon": "exclamationmark.triangle.fill",
+      "overview": "No signs, no lights - just you and other cars. Uncontrolled intersections are where the rules really matter. Miss them and you're in a crash. These rules are heavily tested on the DMV exam!",
+      "keyPoints": [
+        "Slow down and be ready to stop - assume other drivers don't see you",
+        "First to arrive at intersection = first to go",
+        "If you arrive at same time, vehicle on RIGHT has right-of-way",
+        "ALWAYS yield to vehicles already IN the intersection",
+        "Pedestrians and bicyclists have right-of-way over ALL vehicles"
+      ],
+      "detailedContent": "Uncontrolled intersections have NO signs or signals - no stop signs, no yield signs, no traffic lights. Nothing. These are common in residential areas and less-traveled roads. Since there's no signal telling you who goes first, you follow right-of-way rules (CVC 21800). First rule: The vehicle that arrives first has right-of-way. If you arrive at the same time as another vehicle, the car on your RIGHT goes first. Always yield to any vehicle or person already in the intersection. Second rule: ALWAYS yield to pedestrians and bicyclists, regardless of who got there first - they have priority over all vehicles. Approach every uncontrolled intersection as if someone might run it. Slow down to 15 mph or less, scan left-right-left, cover your brake, and be ready to stop. Look for visual clues: Is there a car approaching from the left or right? Are they slowing down or do they look like they'll blow through? Make eye contact with other drivers before proceeding. Never assume they see you or will follow the rules. T-intersections (where one road ends at another) follow special rules: vehicles on the through road (the road that continues straight) have right-of-way over vehicles on the terminating road. If you're on the road that ends, you must yield to through traffic before turning onto the through road. Even if you have right-of-way, be defensive. It's better to yield and avoid a crash than to be 'right' but injured.",
+      "example": "You're driving down a residential street and see an intersection ahead with no signs. You scan and spot a car approaching from your right. You both slow down. They got there slightly before you, so you let them go first. Another car approaches from your left after you've already entered. Since you're already in the intersection, they yield to you. You proceed safely. That's defensive driving!",
+      "memoryTip": "F.R.I.P.Y.: First arrives goes first, Right goes before left (if tied), In intersection = they have right-of-way, Pedestrians always win, Yield when in doubt! At T-intersections: Through road Rules!",
+      "images": [
+        "image124.png",
+        "image62.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 3,
+      "title": "Left Turn Yielding",
+      "icon": "arrow.turn.up.left",
+      "overview": "Left turns are THE most dangerous turn you can make. You're crossing oncoming traffic, which means if you misjudge the gap, you're in a head-on collision. Learn when to wait and when to go.",
+      "keyPoints": [
+        "Left turns ALWAYS yield to ALL oncoming traffic (straight or right-turning)",
+        "Wait in intersection with wheels straight - don't turn them until you go",
+        "If your turn would make oncoming traffic slow or stop, WAIT for bigger gap",
+        "Green light doesn't mean go - it means go when SAFE",
+        "Signal 100 feet before the turn"
+      ],
+      "detailedContent": "Left turns are involved in more crashes than any other type of turn because you're crossing oncoming lanes. The rule is simple but absolute: When turning left, you must yield to ALL oncoming traffic (CVC 21801). This includes cars going straight, cars turning right, motorcycles, and bicycles. Even if you have a green light, you must wait for a safe gap in traffic. A green light means you can enter the intersection and wait for your chance to turn - it does NOT mean you can turn immediately. If your turn would force oncoming traffic to slow down, brake, or stop, you must wait. Never try to 'beat' oncoming traffic. When waiting to turn left, pull into the intersection but keep your wheels STRAIGHT. Why? If someone rear-ends you, straight wheels mean you'll be pushed straight ahead, not into oncoming traffic. Only turn your wheels when you're actually making the turn. Look for a gap of at least 3-4 seconds in oncoming traffic. Signal your left turn 100 feet before the intersection. Position your car close to the center line or center left-turn lane. Check for pedestrians in the crosswalk you'll be crossing into - they have right-of-way. Look both ways before turning: left-right-left. Watch for oncoming vehicles that might have their right turn signal on - don't assume they'll turn. They might have left it on by mistake or plan to turn past you. Wait until they actually start turning. At intersections with left-turn arrows, you have a protected turn when the arrow is green - oncoming traffic has a red light. But still check for cars that might run the red light before you go. Yellow arrow means the protected time is ending - if you're already in the intersection, complete your turn carefully.",
+      "example": "You're waiting to turn left with a green light. Your wheels are straight. Cars keep coming - you're patient and wait. Finally, the light turns yellow. The last oncoming car passes. You quickly check that no one's running the red light, then complete your left turn before the light turns red. Safe and legal! Bonus: If you're already IN the intersection when the light turns red, you're allowed to complete your turn.",
+      "memoryTip": "LEFT = Let Everyone For-sure Traverse! Keep wheels Straight while waiting (S.O.S.: Straight Or Smash into traffic if hit). Yellow arrow = Your protected Ending, Leave if safe! Check for L.I.A.R.S: Left turn signals might be lying, In intersection already, Always recheck before turning, Right-turners get priority, Stay patient!",
+      "images": [],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 4,
+      "title": "Right Turn on Red",
+      "icon": "arrow.turn.up.right",
+      "overview": "Can you turn right on a red light? Usually yes - but only if you follow specific rules. Get this wrong and you'll fail your driving test or cause a crash. Learn the exact steps.",
+      "keyPoints": [
+        "Can turn right on red AFTER coming to COMPLETE stop (unless sign says 'No Turn on Red')",
+        "Stop at limit line, yield to ALL pedestrians and traffic, then turn when safe",
+        "Pedestrians in crosswalk have absolute right-of-way - wait for them",
+        "Check for vehicles turning left from opposite direction (they have green light)",
+        "If there's a 'No Turn on Red' sign, you CANNOT turn - wait for green"
+      ],
+      "detailedContent": "In California, you can turn right at a red light, but ONLY after following these steps exactly: First, come to a COMPLETE stop at the limit line (white line before the crosswalk). If there's no limit line, stop before the crosswalk. If there's no crosswalk, stop before entering the intersection. Your stop must be complete - wheels fully stopped, count to 3. Second, yield to ALL pedestrians in or approaching the crosswalk. Even if the pedestrian signal says 'Don't Walk,' if someone's crossing, you must wait. Third, yield to all vehicles that have a green light - this includes cars going straight, turning left from the opposite direction, or coming from your left or right. Fourth, check for signs saying 'No Turn on Red' - if you see this sign, you CANNOT turn until the light is green. Fifth, when it's clear and safe, make your turn from the far right lane into the far right lane of the street you're turning onto. Stay tight to the curb. You can turn right on red from a one-way street onto another one-way street following the same rules. You can also turn LEFT on red from a one-way street onto another one-way street (after stopping and yielding). Common mistakes: Rolling through the stop (illegal), turning before pedestrians clear the crosswalk (illegal and dangerous), assuming oncoming left-turners will wait for you (they have the green light, they go first), not checking for 'No Turn on Red' signs. Right turn on red is a PRIVILEGE, not a right. If it's not safe, WAIT for the green light. Never rush or honk at drivers who choose to wait for green - that's their legal choice.",
+      "example": "You approach a red light wanting to turn right. You stop completely at the limit line - 3 full seconds. You see a pedestrian approaching the crosswalk, so you wait. They cross. You check left for cars with a green light. Clear. You check the corner for a 'No Turn on Red' sign. None there. You turn right into the right lane. Done correctly! If there HAD been a 'No Turn on Red' sign, you'd wait for green no matter how clear it is.",
+      "memoryTip": "Right turn on red = S.Y.C.T.: Stop completely (3 count), Yield to everyone (pedestrians + traffic), Check for 'No Turn on Red' sign, Turn into right lane when safe. Remember: Red light = REQUIRED stop. Green light = GO carefully. 'No Turn on Red' sign = NO exceptions!",
+      "images": [
+        "image61.png",
+        "image87.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 5,
+      "title": "Pedestrian Right of Way",
+      "icon": "figure.walk",
+      "overview": "Pedestrians always have right-of-way - always. No exceptions. This is the most important right-of-way rule you'll learn. Break this rule and you could kill someone.",
+      "keyPoints": [
+        "Pedestrians have right-of-way in ALL crosswalks (marked AND unmarked)",
+        "MUST stop and yield even if pedestrian is jaywalking or crossing illegally",
+        "Blind pedestrians (white cane or guide dog) have absolute priority at all times",
+        "Never pass a vehicle stopped at a crosswalk - a pedestrian may be crossing",
+        "If pedestrian makes eye contact, they're ready to cross - yield to them"
+      ],
+      "detailedContent": "This is California law and the #1 rule: When there is a pedestrian crossing a roadway with or without a crosswalk, you MUST use caution, reduce your speed, or stop to allow the pedestrian to safely finish crossing (CVC 21950). Pedestrians have right-of-way in marked or unmarked crosswalks - not all crosswalks are painted. Every intersection has a crosswalk, even if it's not marked. If there's a limit line before the crosswalk, stop at the limit line. Never stop in the middle of a crosswalk - this forces blind pedestrians to walk into traffic. Never pass a vehicle stopped at a crosswalk - you may not be able to see a pedestrian crossing. If a pedestrian makes eye contact with you, they're ready to cross - yield to them. Always give pedestrians enough time to cross. Seniors, people with small children, and people with disabilities may need extra time - be patient. Pedestrians using guide dogs or white canes are blind and have right-of-way at ALL times. Never honk your horn at a blind person. When a blind person pulls in their cane and steps away from the intersection, this usually means you may go. Be extra careful when driving a hybrid or electric vehicle because blind pedestrians rely on sound. Special situations: Don't pass vehicles stopped at crosswalks (you can't see what they see), always stop behind the limit line (not in the crosswalk), watch for pedestrians when backing up, and be alert near schools, buses, and parked cars. Pedestrians don't always follow the rules - some will jaywalk or cross against signals. Even when pedestrians are breaking the law, YOU must still stop and yield. Your job is to avoid hitting anyone, regardless of who has legal right-of-way. That's defensive driving.",
+      "example": "You're driving and see a crosswalk ahead. No one's there, but you slow down anyway. Suddenly, a kid chases a ball into the unmarked crosswalk! Because you slowed down, you stop easily. The kid's mom rushes out to get them. You just avoided a tragedy because you remembered: every intersection has a crosswalk, and you must always be ready to stop for pedestrians.",
+      "memoryTip": "P.E.D.S. = Pedestrians Every Direction, Stop! A.L.W.A.Y.S. yield: At crosswalks, Look before passing stopped cars, White canes (blind people) have total priority, All intersections have crosswalks (even unmarked), You must stop even if they're jaywalking, Stop behind limit line. Eye contact = they're ready to cross!",
+      "images": [
+        "image77.png",
+        "image78.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 6,
+      "title": "Roundabouts & Traffic Circles",
+      "icon": "arrow.triangle.2.circlepath",
+      "overview": "Roundabouts are becoming more common in California, but many drivers don't know the rules. They're actually safer than regular intersections when used correctly. Here's how to navigate them like a pro.",
+      "keyPoints": [
+        "Traffic INSIDE the roundabout ALWAYS has right-of-way",
+        "YIELD to all traffic already in the roundabout before entering",
+        "Travel counterclockwise (to your right) - never stop inside",
+        "Signal when changing lanes or exiting",
+        "If you miss your exit, go around again - don't stop or back up"
+      ],
+      "detailedContent": "Roundabouts (also called traffic circles) are circular intersections where traffic flows in one direction around a central island. They're safer than traditional intersections because there are no left turns crossing oncoming traffic. Here's how to use them: Approach - Slow down as you approach the roundabout. Watch for signs and pavement markings showing which lane to use based on where you want to go. Right turn = right lane. Straight = either lane. Left turn = left lane. Yield - You MUST yield to all traffic already in the roundabout. Look to your left for cars circling. Wait for a gap. Never enter if someone's coming - they have absolute right-of-way. Enter - When there's a safe gap, enter heading to the right (counterclockwise). Merge smoothly at a slow speed (usually 15-25 mph). Don't stop inside the roundabout unless traffic ahead makes you stop. Travel - Stay in your lane. Don't change lanes unless necessary. Don't pass other vehicles. Keep moving with traffic. If there are multiple lanes, stay in the lane you entered unless you need to change. Exit - Signal your right turn when you're at the exit before yours (this alerts drivers behind you). Exit in the same lane you were traveling in. Watch for pedestrians in the crosswalk as you exit - they have right-of-way. Missed your exit? Just continue around the roundabout until you return to your exit. Never stop inside, never back up, never try to turn around. Common mistakes: Not yielding to traffic already inside (causes crashes), stopping inside the roundabout (causes rear-ends), not signaling when exiting (confuses other drivers), using the wrong lane for your destination. Roundabouts are designed to keep traffic flowing smoothly and safely - follow the rules and they work great!",
+      "example": "You approach a roundabout wanting to go straight through. You slow down, check the pavement markings, and choose the right lane. You look left and see a car already circling, so you yield and wait. They pass. The roundabout is clear. You enter to the right, travel counterclockwise, and when you reach your exit, you signal right and exit into the right lane. You just nailed your first roundabout!",
+      "memoryTip": "R.O.U.N.D.: Right (always go right/counterclockwise), Others inside have right-of-way, Use correct lane for destination, Never stop inside, Don't miss exit (just go around again). Y.E.S.E.: Yield before entering, Enter when clear, Signal when exiting, Exit in your lane!",
+      "images": [],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 7,
+      "title": "Merging & Freeway Entry",
+      "icon": "arrow.triangle.merge",
+      "overview": "Entering the freeway is scary for new drivers - cars going 65+ mph, limited merge space, and you need to match their speed fast. Master these techniques and freeway entry becomes routine instead of terrifying.",
+      "keyPoints": [
+        "Freeway traffic has right-of-way - you must yield to them",
+        "Match the speed of freeway traffic (usually 65 mph) in the acceleration lane",
+        "Don't stop in acceleration lane unless traffic is stopped",
+        "Signal, check blind spot, merge into a 3-second gap when safe",
+        "If merging into freeway traffic, cars already on freeway should move left to help you"
+      ],
+      "detailedContent": "Highway traffic has right-of-way when you're entering. Your job is to safely merge into their flow without making them slow down. Here's the step-by-step process: 1. Check entrance signs to confirm you're in the correct lane. Some on-ramps have multiple lanes that merge before joining the freeway. 2. The acceleration lane (on-ramp) is where you speed up to match freeway traffic. Use the ENTIRE acceleration lane - don't merge too early. Your goal: reach freeway speed (usually 65 mph) before merging. 3. As you accelerate, scan the freeway traffic. Look for a gap of at least 3 seconds between vehicles. Check your mirrors and over your shoulder for the blind spot. 4. Signal left to show you want to merge. This alerts drivers already on the freeway to your intentions. 5. When you spot a safe gap, merge smoothly. Adjust your speed to slide into the space - you may need to speed up or slow down slightly. Never stop in the acceleration lane unless absolutely necessary (like if traffic is completely stopped). 6. Once merged, turn off your signal and stay in the right lane until comfortable. Don't immediately try to move left into faster lanes. Common mistakes new drivers make: Merging too slow (going 45 mph into 65 mph traffic causes crashes), stopping in the acceleration lane (very dangerous), not checking blind spots, merging too early (wasting the acceleration lane), panicking and hesitating. Special situations: No acceleration lane? Use the right lane as your acceleration area. Yield sign on the ramp? Wait for a large gap. Traffic stopped? Use the zipper merge (alternate, one car at a time). Timed entrance lights (metering lights)? Stop at red, go at green - they control flow during rush hour. For drivers already on freeway: If you see someone merging, help them! Move to the left lane if safe, or adjust your speed to create a gap. Being courteous makes everyone's merge safer. Remember: Smooth, confident merging at proper speed = safe entry. Hesitation and slow merging = dangerous situations.",
+      "example": "You're entering the freeway. The acceleration lane stretches ahead. You press the gas, accelerating to 60 mph. You glance over your shoulder - clear! You signal left and see a perfect gap between two cars. You smoothly merge into that gap at 65 mph, matching traffic perfectly. The car behind you doesn't even need to brake. You merged like a pro because you used the full acceleration lane and matched traffic speed!",
+      "memoryTip": "M.E.R.G.E.: Match freeway speed (60-65 mph), Enter acceleration lane, Ready to merge (check blind spot), Gap find (3 seconds), Execute merge smoothly! Use F.U.L.L. acceleration lane: Freeway speed reached, Use whole lane length, Look for gaps, Launch into traffic when safe! S.S.G. = Speed up, Signal, Go (when gap appears)!",
+      "images": [
+        "image130.png",
+        "image131.png",
+        "image132.png"
+      ],
+      "estimatedReadTime": 3
+    }
+  ]
+}

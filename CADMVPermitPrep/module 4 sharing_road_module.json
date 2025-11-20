@@ -1,0 +1,112 @@
+{
+  "moduleId": "sharing_the_road",
+  "moduleName": "Sharing the Road",
+  "icon": "person.3.fill",
+  "color": "#F59E0B",
+  "lessons": [
+    {
+      "lessonNumber": 1,
+      "title": "Pedestrians & Crosswalks",
+      "icon": "figure.walk",
+      "overview": "Pedestrians are everywhere - and they're the most vulnerable people on the road. In 2020, nearly 7,000 pedestrians were killed by vehicles (one every 75 minutes). Knowing how to share the road with people on foot isn't just polite - it's the law and could save a life.",
+      "keyPoints": [
+        "Pedestrians ALWAYS have right-of-way in crosswalks (marked OR unmarked)",
+        "Yield at ALL crosswalks, even if you don't see anyone",
+        "Never pass a vehicle stopped at a crosswalk - a pedestrian might be crossing",
+        "Watch for pedestrians when backing up, turning, or near schools and buses",
+        "If a pedestrian makes eye contact, they're ready to cross - yield to them"
+      ],
+      "detailedContent": "Pedestrians include anyone walking, using a wheelchair, skateboard, or roller skates. When a pedestrian is crossing a roadway with or without a crosswalk, you must use caution, reduce your speed, or stop to allow them to safely finish crossing. Pedestrians have right-of-way in marked or unmarked crosswalks - not all crosswalks have painted lines. If there's a limit line before the crosswalk, stop at the limit line. Never pass a vehicle stopped at a crosswalk - you might not see a pedestrian crossing. If a pedestrian makes eye contact with you, they're ready to cross - yield to them. Always give pedestrians enough time to cross - seniors, people with small children, and people with disabilities may need extra time. Watch for pedestrians especially near schools (slow to 25 mph when kids are present), at bus stops (people may cross in front of stopped buses), near parked cars (people might step out), and when backing up (check behind you carefully). Pedestrians using guide dogs or white canes are blind and have right-of-way at all times - never honk at them. When approaching a crosswalk, slow down and stop behind the limit line (the solid white line). Blocking crosswalks is illegal and can force pedestrians into traffic. Bike lanes are for bicycles only, marked with solid white lines. Cars can turn through bike lanes or park in them only under certain circumstances, but must always yield to cyclists.",
+      "example": "You're driving through a residential neighborhood and see a crosswalk ahead with no painted lines (unmarked crosswalk). No one's there, but you slow down anyway. Suddenly, a kid chases a ball into the street! Because you slowed down, you stop easily. The kid's mom waves gratefully. That unmarked crosswalk saved a life today.",
+      "memoryTip": "E.Y.E. contact rule: Eye contact means they're ready, so Yield Every time! C.R.O.S.S. watch zones: Crosswalks, Residential areas, Old people/kids, Schools, Stopped buses. Remember: Unmarked crosswalks COUNT - every intersection has one!",
+      "images": [
+        "image168.png",
+        "image169.png",
+        "image170.png",
+        "image78.png",
+        "image171.png",
+        "image172.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 2,
+      "title": "Bicycles & Motorcycles",
+      "icon": "bicycle",
+      "overview": "Motorcycles and bikes share the same road rights as cars - but they're way harder to see and way more vulnerable. A fender-bender for you could be fatal for them. These smaller vehicles need extra space and attention.",
+      "keyPoints": [
+        "Motorcycles easily disappear in your blind spots - always do a double-check",
+        "Give motorcycles 3-second following distance (or more in bad conditions)",
+        "Motorcycles can legally lane-split in California (ride between lanes)",
+        "Pass bicyclists with at least 3 feet of space, or don't pass until safe",
+        "Bike lanes are ONLY for bikes - don't drive in them except to turn within 200 feet"
+      ],
+      "detailedContent": "Motorcycles are harder to see because of their small size - they can hide in your blind spots and behind other traffic. Always check twice before changing lanes or turning. Motorcycles can't swerve in emergencies like cars can - they're committed to their path, so don't cut them off. Road conditions that barely affect cars (potholes, gravel, wet roads, puddles, storm drains) are major hazards for motorcyclists. Give them extra space, especially in bad weather or wind. Watch for careless motorcyclists who weave through traffic - even if a crash isn't your fault, they usually get hurt. Lane splitting (riding between lanes of slow/stopped traffic) is legal in California, so don't be surprised when a motorcycle passes you in traffic. Give motorcycles the full lane width whenever possible and maintain a 3-second following distance. Never pass a motorcycle in the same lane. Bicyclists have the same rights as drivers and must obey all traffic rules. They ride as close to the right side as possible, except when passing, turning left, or avoiding hazards. When passing a bicyclist, you must give at least 3 feet of space. If you can't give 3 feet, don't pass until safe - change lanes if needed. Check blind spots before entering bike lanes. Bike lanes are marked with solid white lines (sometimes bright green) and are ONLY for bicycles. You can only drive in bike lanes when parking (where permitted), entering/leaving the road, or turning within 200 feet of an intersection. Bicyclists at night must have a white front light visible from 300 feet and a rear red reflector visible from 500 feet.",
+      "example": "You're on the freeway in heavy traffic, barely crawling along. Suddenly you hear a motorcycle engine and see a bike split the lanes between you and the car next to you. Your first instinct? Stay in your lane, don't swerve! The motorcyclist zooms past safely. That's legal lane splitting - and you just shared the road correctly by staying predictable.",
+      "memoryTip": "Motorcycle = S.M.A.L.L. problems: Small size (hard to see), Maneuverability limited, All road hazards amplified, Lane splitting legal, Leave 3-second space. Bike passing: 3-3-2 rule (3 feet space, 3-second following, 200 feet to enter bike lane).",
+      "images": [
+        "image183.png",
+        "image184.png",
+        "image92.png",
+        "image173.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 3,
+      "title": "Large Trucks & Blind Spots",
+      "icon": "truck.box.fill",
+      "overview": "Big trucks aren't just bigger versions of your car - they handle completely differently. They have massive blind spots, need way more room to stop and turn, and can't maneuver quickly. If you can't see the truck's mirrors, the driver can't see you!",
+      "keyPoints": [
+        "The 'No Zone': If you can't see truck's mirrors, driver can't see you",
+        "Trucks need 400 feet to stop at 55 mph (you need 300 feet) - don't cut them off",
+        "Trucks swing WIDE to turn - watch for them swinging opposite direction first",
+        "Never drive alongside trucks longer than necessary - pass on left, get ahead",
+        "Don't tailgate trucks - you can't see ahead and they need that space to stop"
+      ],
+      "detailedContent": "Large vehicles and commercial trucks have huge blind spots called 'No Zones' - directly behind them, on both sides (especially right side), and directly in front. If you cannot see the truck's side mirrors, the truck driver cannot see you. Stay out of these blind spots! Trucks take much longer to stop than cars. At 55 mph, your car stops in 300 feet, but a large truck needs up to 400 feet (or more when loaded). Never move in front of a large vehicle and suddenly slow down or stop - they won't be able to stop in time. When trucks turn, their rear wheels follow a shorter path than front wheels. The longer the vehicle, the bigger the difference - this is why trucks swing wide to turn. When you follow a large vehicle, look at its turn signals before passing. It might appear to be turning one direction but is actually swinging wide the opposite direction to complete the turn. Large vehicles aren't as easy to maneuver as cars. On highways with 4+ lanes in one direction, they may only use the two rightmost lanes. When driving near trucks: Don't change lanes directly in front of them to reach an exit, don't drive next to them longer than necessary (always pass on the left side, then move ahead), don't tailgate (it blocks your view and their stopping distance), and don't underestimate their size and speed (they often appear slower than they are). On divided highways, trucks must use the right two lanes. Give them space to maneuver. When a truck passes you, don't speed up - maintain your speed and let them pass safely.",
+      "example": "You're following a big semi-truck on the highway. You can't see anything ahead because the truck blocks your view. The truck suddenly brakes hard - brake lights flash! You hit your brakes too, but you're way too close. Your car barely stops in time. Your heart is pounding. Lesson learned: Never tailgate trucks. That space they leave isn't wasted - it's their stopping distance. Stay back!",
+      "memoryTip": "No Zone = Can't see their mirrors? They can't see YOU! Truck stopping: 4-3 (400 feet for them, 300 feet for you at 55 mph). T.U.R.N.S. need space: Turn signals checked, Understand wide swings, Right-side blind spot biggest, Never cut off, Stay out of their way!",
+      "images": [],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 4,
+      "title": "Emergency Vehicles",
+      "icon": "light.beacon.max.fill",
+      "overview": "When you see flashing lights and hear sirens, someone's life might depend on that ambulance or fire truck getting through fast. The law is crystal clear: pull over and stop. Failing to yield to emergency vehicles can result in a ticket - and guilt if someone dies because you delayed them.",
+      "keyPoints": [
+        "Emergency vehicles with lights/sirens on get right-of-way over EVERYONE",
+        "Pull to the RIGHT edge and STOP until they pass",
+        "If you're IN an intersection, clear it first, THEN pull right and stop",
+        "NEVER follow within 300 feet of emergency vehicles with lights/sirens on",
+        "When emergency vehicle is stopped with lights on, move over and slow down"
+      ],
+      "detailedContent": "Give right-of-way to any law enforcement vehicle, fire engine, ambulance, or other emergency vehicle using a siren and red lights. Failure to pull over results in a ticket. When you see or hear an emergency vehicle with lights and sirens: Drive to the right edge of the road and stop until the emergency vehicle(s) have passed. If you are in an intersection when you see an emergency vehicle, continue through the intersection first, then drive to the right as soon as it is safe and stop. Never stop IN the intersection - that blocks the emergency vehicle! Obey any direction, order, or signal given by a law enforcement officer or firefighter - follow their orders even if they conflict with existing signs, signals, or laws. It is against the law to follow within 300 feet of any fire engine, law enforcement vehicle, ambulance, or other emergency vehicle when their siren or flashing lights are on (CVC 21706). You can be arrested if you drive to the scene of a fire, collision, or other disaster - you're getting in the way of rescue personnel. Move over and slow down for stationary emergency vehicles or tow trucks displaying flashing amber warning lights, and stopped road work vehicles displaying emergency flashing or amber warning lights. When approaching a stationary emergency vehicle with flashing lights (hazard lights), change lanes away from it if safe, or slow down. The 'Move Over Law' protects emergency responders working on the roadside. Violating these laws endangers first responders and delays life-saving help.",
+      "example": "You're at a red light when you hear sirens. An ambulance is coming up behind you with lights flashing. The light is still red, but you're blocking the ambulance's path. What do you do? Carefully pull to the right, even through the red light if needed, and stop. The ambulance zooms through. You may have just helped save someone's life. Once it's well ahead and the light turns green, you continue safely.",
+      "memoryTip": "Emergency = P.R.S.: Pull Right and Stop! 3-3-3: Never follow within 300 feet! R.I.M. = Right-of-way In Motion (emergency vehicles always have it). Move Over Law: See lights? Move over OR slow down!",
+      "images": [],
+      "estimatedReadTime": 2
+    },
+    {
+      "lessonNumber": 5,
+      "title": "School Buses & Special Vehicles",
+      "icon": "bus.fill",
+      "overview": "School buses carry kids - our most precious cargo. That's why the laws around school buses are super strict. When those red lights flash and the stop sign extends, EVERYONE stops. No exceptions. Breaking this law can cost you $1,000+ and a suspended license.",
+      "keyPoints": [
+        "Red flashing lights on school bus = STOP in BOTH directions (unless divided highway)",
+        "Yellow flashing lights = slow down and prepare to stop",
+        "Stay stopped until red lights turn off and kids are safely across",
+        "Don't stop on railroad tracks - always make sure there's room on the other side",
+        "Vehicles with hazardous load signs (diamond shape) must stop before railroad crossings"
+      ],
+      "detailedContent": "When a school bus flashes red lights (located at top, front, and back of bus), you must stop from either direction until children are safely across the street and the lights stop flashing. Remain stopped while the red lights are flashing. If you fail to stop, you may be fined up to $1,000 and your driving privilege could be suspended for one year. Exception: If the school bus is on the other side of a divided or multilane highway (two or more lanes in each direction), you do not need to stop. Yellow flashing lights on school buses warn you to slow down and prepare to stop - the bus is preparing to stop to let children off. Never pass a school bus with flashing red lights. School buses must now use red lights at ALL stops. Be patient with school buses - they make frequent stops, are slow, and carry kids who might do unpredictable things. When a bus stops, expect children might run across the street without looking. Slow down in school zones to 25 mph when children are present (some zones are 15 mph). Watch for school safety patrols and crossing guards - obey their directions. At railroad crossings, never stop on the tracks - always ensure there's room for your entire vehicle on the other side before crossing. Certain vehicles (school buses and trucks with hazardous materials) must stop at all railroad crossings. Watch for them and be prepared for their stops. Flashing red lights at railroad crossings mean STOP - do not proceed until lights stop flashing, even if the gate rises. Do not go under lowering gates or around lowered gates. If gates are down but no train is visible, call the posted railroad emergency number or 911. Safety zones (marked by raised buttons or dotted white lines) are set aside for pedestrians waiting for buses, streetcars, and trolleys - never drive through a safety zone. When a bus, streetcar, or trolley is stopped at a safety zone or traffic light, you may pass at no more than 10 mph. Slow-moving vehicles (like road maintenance equipment) display an orange and red triangle and usually travel 25 mph or less - be patient and pass safely when possible.",
+      "example": "You're running late for school and stuck behind a school bus. It stops and the yellow lights start flashing. You think about passing before the red lights come on. NO! The yellow lights mean 'prepare to stop' - the red lights are coming any second. Sure enough, red lights flash and the stop sign swings out. You stop and wait. A kid with a backpack crosses in front. Your patience just kept a child safe. Being late to school is way better than hitting a kid.",
+      "memoryTip": "School bus lights: Y.R.G. = Yellow (prepare to stop), Red (STOP NOW), Go (when lights off). $1K + 1 year = cost of passing stopped bus with red lights. Railroad crossings: Never STOP on tracks, Always check TWICE (multiple tracks), Wait for lights OFF. Hazard diamond = MUST stop at railroad tracks!",
+      "images": [
+        "image68.png"
+      ],
+      "estimatedReadTime": 3
+    }
+  ]
+}

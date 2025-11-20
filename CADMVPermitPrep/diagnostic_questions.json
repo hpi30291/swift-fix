@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "questionText": "How far in advance should you signal before exiting a freeway?",
+    "answerA": "At least 100 feet before the exit",
+    "answerB": "At least five seconds (approximately 400 feet) before the exit",
+    "answerC": "At least 200 feet before the exit",
+    "correctAnswer": "B",
+    "category": "Signaling",
+    "explanation": "When in the proper lane, signal five seconds (approximately 400 feet) before you exit. This gives other drivers adequate time to react to your intentions on high-speed roadways."
+  },
+  {
+    "id": "2",
+    "questionText": "What is the maximum distance you may drive in a center left turn lane?",
+    "answerA": "100 feet",
+    "answerB": "300 feet",
+    "answerC": "200 feet",
+    "correctAnswer": "C",
+    "category": "Lane Usage",
+    "explanation": "You may only drive for 200 feet in the center left turn lane. The center left turn lane is used to prepare for and make a left turn or U-turn, not as a regular traffic lane or passing lane."
+  },
+  {
+    "id": "3",
+    "questionText": "When must you use a turnout area or lane on a two-lane road?",
+    "answerA": "When three or more vehicles are following you",
+    "answerB": "When driving more than 10 mph below the speed limit",
+    "answerC": "When driving slowly, passing is unsafe, and five or more vehicles are following you",
+    "correctAnswer": "C",
+    "category": "Traffic Laws",
+    "explanation": "You must use a turnout area or lane to let other vehicles pass when you are driving slowly on a two-lane road, where passing is unsafe, and there are five or more vehicles following you."
+  },
+  {
+    "id": "4",
+    "questionText": "What is the speed limit at a blind intersection?",
+    "answerA": "15 mph",
+    "answerB": "20 mph",
+    "answerC": "25 mph",
+    "correctAnswer": "A",
+    "category": "Speed Limits",
+    "explanation": "The speed limit for a blind intersection is 15 mph. An intersection is considered blind if it has no stop signs at any corner. If your view is blocked, move slowly forward until you can see."
+  },
+  {
+    "id": "5",
+    "questionText": "How far must you stop from the nearest railroad track when a train is approaching?",
+    "answerA": "At least 10 feet",
+    "answerB": "At least 15 feet",
+    "answerC": "At least 20 feet",
+    "correctAnswer": "B",
+    "category": "Railroad Crossings",
+    "explanation": "When the crossing devices or a person warns you a train is coming, stop at least 15 feet from the nearest track. This provides a safe distance from the train."
+  },
+  {
+    "id": "6",
+    "questionText": "When approaching a school bus with flashing red lights on a divided highway with two or more lanes in each direction, what should you do?",
+    "answerA": "Stop and remain stopped until the lights stop flashing",
+    "answerB": "Slow down and proceed with caution",
+    "answerC": "You do not need to stop",
+    "correctAnswer": "C",
+    "category": "School Buses",
+    "explanation": "If the school bus is on the other side of a divided or multilane highway (two or more lanes in each direction), you do not need to stop. However, always remain alert for children."
+  },
+  {
+    "id": "7",
+    "questionText": "What does a flashing DON'T WALK or flashing raised hand pedestrian signal mean for drivers?",
+    "answerA": "Drivers may proceed through the crosswalk without stopping",
+    "answerB": "Drivers must yield to pedestrians, even if the light is flashing",
+    "answerC": "Drivers should honk to alert pedestrians not to cross",
+    "correctAnswer": "B",
+    "category": "Pedestrian Rights",
+    "explanation": "Drivers must yield to pedestrians, even if the DON'T WALK light is flashing. The flashing signal warns pedestrians not to start crossing, but those already in the crosswalk have the right to finish crossing safely."
+  },
+  {
+    "id": "8",
+    "questionText": "When can you legally drive in a bike lane?",
+    "answerA": "Never, bike lanes are for bicycles only",
+    "answerB": "Within 200 feet from a turn",
+    "answerC": "Whenever traffic is heavy",
+    "correctAnswer": "B",
+    "category": "Lane Usage",
+    "explanation": "You can drive in a bike lane within 200 feet from a turn. Check for bicyclists in your blind spots before entering the bike lane to make your turn."
+  },
+  {
+    "id": "9",
+    "questionText": "Two sets of solid double yellow lines spaced two or more feet apart represent what?",
+    "answerA": "A passing zone",
+    "answerB": "A barrier that should not be crossed except at designated openings",
+    "answerC": "A center left turn lane",
+    "correctAnswer": "B",
+    "category": "Lane Markings",
+    "explanation": "Two sets of solid double yellow lines spaced two or more feet apart are considered a barrier. Do not drive on or over this barrier, make a left turn, or make a U-turn across it, except at designated openings."
+  },
+  {
+    "id": "10",
+    "questionText": "When is it legal to make a left turn against a red traffic light?",
+    "answerA": "Never, left turns on red are always illegal",
+    "answerB": "When turning from a one-way street onto another one-way street, if no sign prohibits it",
+    "answerC": "When turning from any street onto a one-way street",
+    "correctAnswer": "B",
+    "category": "Traffic Signals",
+    "explanation": "You may turn left against a red light when you are turning from a one-way street onto another one-way street. Make sure there is no sign prohibiting the turn and yield to other vehicles, pedestrians, or bicyclists who have a green light."
+  },
+  {
+    "id": "11",
+    "questionText": "What is the minimum following distance you should maintain behind another vehicle?",
+    "answerA": "Two seconds",
+    "answerB": "Three seconds",
+    "answerC": "Four seconds",
+    "correctAnswer": "B",
+    "category": "Safe Driving",
+    "explanation": "Use the three-second rule to ensure a safe following distance and avoid a collision. Following other vehicles at a safe distance gives you enough time to react if another driver makes a mistake."
+  },
+  {
+    "id": "12",
+    "questionText": "How close can you legally follow an emergency vehicle that has its siren or flashing lights on?",
+    "answerA": "Within 200 feet",
+    "answerB": "Within 300 feet",
+    "answerC": "Within 500 feet",
+    "correctAnswer": "B",
+    "category": "Emergency Vehicles",
+    "explanation": "It is against the law to follow within 300 feet of any fire engine, law enforcement vehicle, ambulance, or other emergency vehicle when their siren or flashing lights are on."
+  },
+  {
+    "id": "13",
+    "questionText": "When may you pass on the right?",
+    "answerA": "When the driver ahead is turning left or on an open highway with two or more lanes in your direction",
+    "answerB": "Whenever you want to pass more quickly",
+    "answerC": "Only on one-way streets",
+    "correctAnswer": "A",
+    "category": "Passing",
+    "explanation": "You may pass on the right only when an open highway has two or more lanes going in your direction, when the driver ahead of you is turning left and you can safely pass on the right, or on a one-way street."
+  },
+  {
+    "id": "14",
+    "questionText": "At what speed must vehicles with hazardous loads approach a railroad crossing?",
+    "answerA": "They must slow to 15 mph",
+    "answerB": "They must stop before crossing",
+    "answerC": "They can proceed at normal speed if the crossing is clear",
+    "correctAnswer": "B",
+    "category": "Special Vehicles",
+    "explanation": "Vehicles with hazardous loads (indicated by a diamond-shaped placard) must stop before crossing railroad tracks. Watch for these vehicles and be prepared to stop behind them."
+  },
+  {
+    "id": "15",
+    "questionText": "What is the speed limit near a railroad crossing when you cannot see the tracks for 400 feet in both directions?",
+    "answerA": "10 mph",
+    "answerB": "15 mph",
+    "answerC": "20 mph",
+    "correctAnswer": "B",
+    "category": "Speed Limits",
+    "explanation": "The speed limit is 15 mph within 100 feet of a railroad crossing when you cannot see the tracks for 400 feet in both directions. You may drive faster than 15 mph if the crossing is controlled by gates, a warning signal, or a flagman."
+  }
+]

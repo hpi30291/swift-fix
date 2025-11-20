@@ -1,0 +1,176 @@
+{
+  "moduleId": "traffic_signs",
+  "moduleName": "Traffic Signs",
+  "icon": "exclamationmark.triangle.fill",
+  "color": "#F59E0B",
+  "lessons": [
+    {
+      "lessonNumber": 1,
+      "title": "Warning Signs - Yellow Diamonds",
+      "icon": "exclamationmark.triangle",
+      "overview": "Yellow diamond-shaped signs are like your road's way of saying 'heads up!' They warn you about potential hazards and changing conditions ahead. Learning to spot and react to these signs quickly can help you avoid dangerous situations.",
+      "keyPoints": [
+        "Yellow diamonds warn you of specific road conditions and dangers ahead",
+        "These signs give you time to prepare - slow down, stay alert, and adjust your driving",
+        "Common warnings include curves, merging traffic, slippery roads, and pedestrian crossings",
+        "The earlier you spot these signs, the safer you'll be"
+      ],
+      "detailedContent": "Think of warning signs as your road's early alert system. They're bright yellow with black symbols or text, shaped like diamonds, and they're designed to catch your attention before you reach a hazard. You'll see them warning about curves ahead (time to slow down!), merging traffic (watch for cars joining your lane), slippery conditions when wet (ease off the gas in rain), and pedestrian crossings (kids might be around). Some show lane endings, divided highways ending (meaning two-way traffic is starting), traffic signals ahead, or even winding roads. These signs typically appear a few hundred feet before the actual hazard, giving you time to react. The key is to actually do something when you see them - don't just notice and ignore. If you see a curve warning, reduce your speed before you get there. Merging traffic ahead? Start checking your mirrors and creating space. The DMV wants you to treat these signs as action items, not just decoration. They're there because something unexpected or potentially dangerous is coming up, and they're giving you a chance to prepare. Smart drivers use warning signs to stay ahead of the road conditions.",
+      "example": "You're driving on a road you've never been on before, going about 50 mph. Suddenly you spot a yellow diamond sign with a curvy arrow. You ease off the gas and slow to 35 mph. Good thing you did - right around the next bend is a sharp turn that would've been scary at 50! That warning sign just saved you from a potentially dangerous situation.",
+      "memoryTip": "Yellow = 'Yell-ow' - the road is yelling at you to watch out! Diamond shape means 'Pay attention, danger ahead!' Think: Yellow Diamonds = Your Warning.",
+      "images": [
+        "image70.png"
+      ],
+      "estimatedReadTime": 2
+    },
+    {
+      "lessonNumber": 2,
+      "title": "Regulatory Signs - Red & White Rules",
+      "icon": "octagon",
+      "overview": "Red and white signs aren't suggestions - they're the law! These regulatory signs tell you what you must do (or must NOT do) on the road. Ignoring them can result in tickets, fines, or worse - accidents.",
+      "keyPoints": [
+        "Red and white signs communicate traffic laws you must obey",
+        "STOP signs (red octagon) mean come to a complete stop - no rolling through",
+        "DO NOT ENTER and WRONG WAY signs mean exactly what they say",
+        "Red circle with a red slash means the action shown is prohibited",
+        "White rectangular signs also give important rules and regulations"
+      ],
+      "detailedContent": "Regulatory signs are all about the rules of the road. The most obvious one? The red octagon STOP sign - you must come to a complete stop, not just slow down. Your wheels need to fully stop moving. Then there's DO NOT ENTER (usually at freeway off-ramps or one-way streets) - if you see this, you're going the wrong direction, so back up or turn around safely. The WRONG WAY sign confirms you're heading into oncoming traffic. See a red circle with a red line through something? That means don't do that thing - no U-turns, no left turns, no right turns, whatever's shown. White rectangular signs are also regulatory - they include speed limits, ONE WAY arrows, NO PARKING, DO NOT PASS, and YIELD TO UPHILL TRAFFIC signs. Other white signs tell you about turn lanes (like 'LEFT TURN YIELD ON GREEN'), keeping right, or emergency parking only. The key thing to remember: these aren't optional. They're legally enforceable rules. Breaking them can get you pulled over, fined, and points on your driving record. Plus, they exist for safety reasons - following them keeps traffic flowing smoothly and prevents crashes.",
+      "example": "You're running late and approach a STOP sign at an empty intersection. You think about just slowing down and rolling through since no one's around. But you remember that cops often watch these spots, and a ticket costs way more than the 3 seconds you'd save. Plus, you never know if a car, bike, or pedestrian might appear suddenly. You come to a complete stop, check both ways, then proceed safely.",
+      "memoryTip": "Red = STOP and PAY ATTENTION! White rectangles = Rules you must follow. Think: Red means 'Read carefully and obey!' Octagon = Only one sign has 8 sides, so STOP is unforgettable.",
+      "images": [
+        "image70.png"
+      ],
+      "estimatedReadTime": 2
+    },
+    {
+      "lessonNumber": 3,
+      "title": "Guide Signs - Green & Blue Directions",
+      "icon": "signpost.right.fill",
+      "overview": "Getting where you need to go? That's where green and blue signs come in! Guide signs help you navigate by showing directions, distances, and services. They won't keep you safe like warning signs, but they'll definitely keep you from getting lost.",
+      "keyPoints": [
+        "Green signs show directions, distances to cities, and highway routes",
+        "Blue signs point you to services like rest areas, gas, food, and hospitals",
+        "Brown signs indicate recreational areas and cultural sites like parks",
+        "These signs help with navigation and trip planning"
+      ],
+      "detailedContent": "Guide signs are your road trip best friends. Green signs are all about navigation - they show you which freeway you're on, how many miles until the next city, which lane to be in for your exit, and which direction different highways go. You'll see green signs with route numbers (like '101 North' or 'I-5'), exit numbers, and distance information. They help you plan your moves well in advance of your exit. Blue signs are service signs - they tell you where to find gas stations, food, lodging, and hospitals. You'll especially appreciate these on long trips when you need a bathroom break or your stomach starts growling! Blue signs might say 'Rest Area 1 Mile' or show symbols for gas pumps, food utensils, or a bed. Brown signs mark recreational areas and points of interest - state parks, historic sites, campgrounds, scenic viewpoints. Unlike warning or regulatory signs that demand immediate action, guide signs give you information to help you make decisions. You don't have to obey them (you can skip that exit if you want), but they make driving so much easier. Pro tip: start watching for your exit guide signs at least a mile before you need to exit, especially on busy freeways.",
+      "example": "You're road-tripping to Santa Cruz and your GPS dies. No problem! You follow the green freeway signs showing 'Santa Cruz 52 miles' then '35 miles' then '10 miles.' When you need gas, you spot a blue sign showing a gas pump symbol at the next exit. Easy navigation without even needing your phone!",
+      "memoryTip": "Green = Go find your way (directions). Blue = Basic needs (services). Brown = Beautiful places (recreation). Think: G-B-B for Guidance, Basics, Beautiful!",
+      "images": [
+        "image70.png"
+      ],
+      "estimatedReadTime": 2
+    },
+    {
+      "lessonNumber": 4,
+      "title": "Traffic Signals & Lights",
+      "icon": "light.beacon.max",
+      "overview": "Traffic lights are probably the most common traffic control you'll encounter. But there's more to them than just 'red stop, green go!' Understanding all the different signals - including arrows, flashing lights, and pedestrian signals - is crucial for safe driving.",
+      "keyPoints": [
+        "Red light = STOP. Yellow light = Light is about to turn red, prepare to stop",
+        "Green light = GO, but only when the intersection is clear",
+        "Flashing red = treat like a stop sign. Flashing yellow = slow down and proceed with caution",
+        "Green arrow = you can turn safely. Yellow arrow = prepare to stop. Red arrow = do not turn",
+        "You can turn right on red after stopping completely, unless a sign says 'No Turn on Red'"
+      ],
+      "detailedContent": "Let's break down traffic signals step by step. Solid red means stop completely behind the white line or crosswalk. Yellow means the light is changing to red - if you're not already in the intersection, stop. Don't speed up to 'make it' through a yellow! Green means go, but always check that the intersection is actually clear first. Now for arrows: a green arrow means you can turn in that direction and oncoming traffic is stopped. A yellow arrow means the green arrow is ending, so prepare to stop. A red arrow means stop and don't turn, even if the main light is green. Flashing signals are different - flashing red means treat it like a stop sign (stop, then proceed when safe). Flashing yellow means slow down and proceed carefully. Lane signals hang above specific lanes: green arrow = use this lane, yellow X = get ready to change lanes, red X = don't drive in this lane. Right turns on red are allowed after a complete stop unless a sign prohibits it - but you must check for pedestrians and oncoming traffic first. When lights aren't working at all (power outage), treat the intersection like a four-way stop. Always obey police officers directing traffic over signals - their instructions override the lights.",
+      "example": "You're approaching an intersection and the light turns yellow. You're far enough back that you'd have to speed up to make it. Instead, you brake smoothly and stop. Sure enough, a pedestrian starts crossing right as the light turns red. Your decision to stop on yellow just prevented a potentially tragic accident.",
+      "memoryTip": "ROY G BIV for lights? Nope! Just remember: Red = REALLY stop. Yellow = You better slow down. Green = Go (but look first!). For arrows: Green means GOOD to turn!",
+      "images": [
+        "image59.png",
+        "image62.png",
+        "image87.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 5,
+      "title": "Pavement Markings - Lines & Arrows",
+      "icon": "road.lanes",
+      "overview": "The paint on the road isn't just decorative - it's a communication system! Pavement markings tell you where you can drive, when you can pass, where to stop, and what your lane is going to do up ahead. Learn to read the road beneath your wheels.",
+      "keyPoints": [
+        "Yellow lines separate traffic going opposite directions. White lines separate traffic going the same way",
+        "Broken lines = you can cross to pass or change lanes. Solid lines = stay in your lane",
+        "Double solid lines (yellow or white) = never cross",
+        "Arrows in your lane show where that lane goes (straight, turn only, or both)",
+        "Stop lines show where to stop at intersections and crosswalks"
+      ],
+      "detailedContent": "Let's decode the road's painted language. Yellow center lines divide traffic going opposite directions. A broken yellow line means you can pass if it's safe. One solid + one broken means only the side with the broken line can pass. Double solid yellow lines mean no passing for anyone (except when turning left into a driveway). White lines separate lanes going the same direction. Broken white = you can change lanes. Solid white = lane changes aren't recommended (usually near intersections or exits). Double solid white lines appear before HOV lanes or freeway exits - never cross these! White arrows tell you what your lane does: straight arrow = through lane only, curved arrow = turn only lane, two arrows = you can go either way. A thick white stop line shows where to stop at intersections - stop before it, not on it. Crosswalks are marked with white parallel lines. At railroad crossings, you'll see an 'X' with 'RR' and two white lines. White edge lines keep you on the pavement, especially helpful in fog or at night. Yellow edge lines appear on the left side of divided highways. Pay attention to line patterns - they're giving you critical information about what you can and can't do, and where your lane is headed.",
+      "example": "You're in the right lane and see a white arrow painted on the road ahead showing your lane turns right only. You need to go straight, so you check your mirror, signal left, and change lanes before you reach the intersection. Without that arrow warning, you might have ended up turning when you didn't want to!",
+      "memoryTip": "Yellow = 'Y'ou and oncoming traffic (opposite directions). White = 'W'ith traffic (same direction). Broken lines = 'B'reak on through (you can cross). Solid = Stay put!",
+      "images": [
+        "image63.png",
+        "image64.png",
+        "image65.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 6,
+      "title": "Special Signs - Schools, Railroads & Construction",
+      "icon": "figure.walk",
+      "overview": "Some situations on the road need extra attention and special rules. School zones, railroad crossings, and construction zones each have their own signs and requirements. These areas can be especially dangerous, so knowing how to navigate them is essential.",
+      "keyPoints": [
+        "Pentagon (5-sided) signs = school zone. Slow down to 25 mph (or posted speed) when children are present",
+        "Round yellow sign with black X and 'RR' = railroad crossing ahead. Look, listen, and prepare to stop",
+        "Yellow/black X-shaped sign = you're at a railroad crossing",
+        "Orange signs = construction zone. Slow down, follow worker directions, and expect the unexpected",
+        "School buses with flashing red lights = you MUST stop (both directions, unless divided highway)"
+      ],
+      "detailedContent": "School zones are marked by pentagon-shaped signs (five sides). When you see these, or when children are present, you must slow to 25 mph or the posted school zone speed (sometimes 15 mph). Watch for kids crossing, crossing guards (obey their signals!), and school buses. Speaking of buses - when a school bus has flashing yellow lights, it's preparing to stop. Slow down! When you see flashing red lights and a stop arm extended, you must stop in both directions (unless you're on the opposite side of a divided highway). Don't go until the lights stop and kids are safe. Railroad crossings have round yellow advance warning signs with a black 'X' and 'RR'. At the crossing itself, you'll see a white X-shaped crossbuck sign. Many crossings have gates and flashing red lights - when these activate, STOP and wait, even if you don't see a train yet. Never drive around gates or race trains. Trains can't stop quickly (over a mile stopping distance!) and you will lose that race. Construction zones use orange signs and might have flashing arrow boards, lane shifts, or flaggers directing traffic. Obey flaggers - they have the authority to direct traffic. Watch for workers, slow-moving equipment, and sudden stops. Fines can double in work zones when workers are present.",
+      "example": "You're driving through a neighborhood and spot a pentagon school sign. You glance at your speedometer - 38 mph. You slow to 25 mph and good thing you do, because seconds later a crossing guard steps into the street with a stop paddle and several kids start crossing. Your attention to the school zone sign prevented a potential disaster.",
+      "memoryTip": "Pentagon = 5 sides = School (think: kids K-5th grade!). Round = Railroad (wheels are round). Orange = Oh no, construction! School bus RED lights = Really Everyone must stop!",
+      "images": [
+        "image66.png",
+        "image67.png",
+        "image68.png",
+        "image88.png"
+      ],
+      "estimatedReadTime": 3
+    },
+    {
+      "lessonNumber": 7,
+      "title": "Sign Shapes & What They Mean",
+      "icon": "shape",
+      "overview": "Did you know you can tell what a sign means even from far away, before you can read the words? That's because each sign shape has a specific meaning. Learning these shapes helps you react faster and drive safer.",
+      "keyPoints": [
+        "Octagon (8 sides) = STOP sign - the only 8-sided sign",
+        "Triangle pointing down = YIELD - let other traffic go first",
+        "Circle = Railroad crossing warning",
+        "Diamond = Warning of hazards ahead",
+        "Pentagon (5 sides) = School zone",
+        "Vertical rectangle = Regulatory (laws you must follow)",
+        "Horizontal rectangle = Guide/information signs"
+      ],
+      "detailedContent": "Shape recognition is a super useful skill because it works even when you can't see the sign clearly yet (bad weather, distance, night). The octagon is unique - only STOP signs have eight sides, so you'll always know what it means. Triangles pointing down mean yield - slow down and be ready to stop for other traffic. You'll see these at roundabouts and some intersections. Round yellow signs with black markings warn of railroad crossings. Diamonds are your warning signs - hazards, curves, merging, etc. Pentagons (five sides) mark school zones. Rectangles come in two orientations: vertical rectangles are regulatory (speed limits, parking rules, one-way signs) while horizontal rectangles provide guidance (exit info, distance signs, route markers). Pennant shapes (like elongated triangles) warn you're entering a no-passing zone. Learning shapes helps your brain process signs faster. When you're driving 65 mph on the freeway, every split second counts. Your brain can recognize 'octagon = stop' way faster than reading the word 'STOP.' It's like having a cheat code for reading the road! This is also why signs use consistent shapes - it's an international system designed to communicate quickly and clearly, even if you can't read the language.",
+      "example": "It's foggy and you're driving in an unfamiliar area. Through the mist, you spot an octagonal red shape ahead. Even though you can't read the letters yet, you know it's a STOP sign and start braking. That shape recognition gave you extra seconds to slow down safely.",
+      "memoryTip": "8 sides = 8-letter word: STOP SIGN. Triangle points down = Yield to traffic (arrow pointing down means 'you go second'). Diamond = Danger warning. Pentagon = 5 sides = Protect kids at school!",
+      "images": [
+        "image69.png",
+        "image70.png"
+      ],
+      "estimatedReadTime": 2
+    },
+    {
+      "lessonNumber": 8,
+      "title": "Lane Use & HOV Signs",
+      "icon": "car.2.fill",
+      "overview": "Not all lanes are created equal! Some lanes have special rules - like HOV carpool lanes, center turn lanes, or turn-only lanes. Understanding these lane use signs keeps you legal and helps traffic flow smoothly.",
+      "keyPoints": [
+        "HOV/Carpool lanes marked with diamond symbol - need 2+ people (unless you have special decal)",
+        "Don't cross double solid white lines to enter/exit HOV lanes",
+        "Center left turn lane (yellow lines, both sides) - only for preparing left turns, max 200 feet",
+        "Lane arrows show if lanes are turn-only, straight-only, or combination",
+        "White 'LEFT LANE MUST TURN LEFT' signs tell you exactly what lanes do"
+      ],
+      "detailedContent": "HOV stands for High Occupancy Vehicle - these are carpool lanes marked with white diamond symbols painted on the pavement. To use them, you need 2 or more people in your car (some require 3+, check the signs). Motorcycles can use them, and some low-emission vehicles with special DMV decals qualify. You'll see signs showing when HOV rules apply (like 'M-F 6-10 AM, 3-7 PM'). Enter and exit only where the lane line is broken - never cross double solid white lines! Using HOV lanes illegally can cost you $490+ in fines. Center left turn lanes run down the middle of some roads with two painted lines (inner broken, outer solid). You can use this to prepare for left turns, but you can't drive in it for more than 200 feet, and it's not for passing. Lane use arrows painted on the road show what each lane does. A straight arrow means through traffic only. A curved arrow means that lane must turn. Combined arrows mean you have options. Watch for these arrows as you approach intersections - they prevent you from accidentally ending up in a turn-only lane when you want to go straight. Some signs explicitly say 'LEFT LANE MUST TURN LEFT' or show which lanes go where. Follow these or you might make an illegal movement.",
+      "example": "You're driving alone on the freeway and think about jumping into the HOV lane because traffic is slow. But you remember you need 2+ people and there are often cops watching HOV lanes. You stay in the regular lanes and avoid a $490 ticket. Later, you need to turn left at a busy street. You enter the center left turn lane, wait for traffic to clear, then complete your turn safely.",
+      "memoryTip": "HOV = Help Ourselves by Vanpooling! Diamond shape = Diamond carpool lane (valuable lane!). Center turn lane = CAN'T use for cruising, only 200 feet for turning.",
+      "images": [
+        "image64.png"
+      ],
+      "estimatedReadTime": 3
+    }
+  ]
+}
